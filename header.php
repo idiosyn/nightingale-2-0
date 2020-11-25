@@ -70,13 +70,16 @@ echo '<header class="nhsuk-header nhsuk-header--' . esc_attr( $header_layout . $
 		</div>
 
 		<?php
+		if ( class_exists( 'Nightingale_BuddyBoss_BuddyPanel_Menu_Walker' ) ) {
+			get_template_part( 'template-parts/buddy-header' );
+		}
 		if ( 'yes' === $header_search ) {
 			?>
 			<div class="nhsuk-header__search">
 				<?php get_search_form(); ?>
 			</div>
 			<?php
-		}
+        }
 		?>
 
 	</div>

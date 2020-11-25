@@ -49,8 +49,8 @@ function nightingale_setup() {
 
 	// This theme uses wp_nav_menus() in two location.
 	$locations = array(
-		'main-menu'   => __( 'The menu to show at the top of your site (does not show child options, only top level navigation)', 'nightingale' ),
-		'footer-menu' => __( 'The footer navigation area - this is great for showing more detailed links and deeper navigation.', 'nightingale' ),
+		'main-menu'            => __( 'The menu to show at the top of your site (does not show child options, only top level navigation)', 'nightingale' ),
+		'footer-menu'          => __( 'The footer navigation area - this is great for showing more detailed links and deeper navigation.', 'nightingale' ),
 	);
 	register_nav_menus( $locations );
 
@@ -177,7 +177,7 @@ function nightingale_content_width() {
 	// This variable is intended to be overruled from themes.
 	// Open WPCS issue: {@link https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards/issues/1043}.
 	// phpcs:ignore WordPress.NamingConventions.PrefixAllGlobals.NonPrefixedVariableFound
-	$GLOBALS['content_width'] = apply_filters( 'nightingale_content_width', 640 );
+	$GLOBALS[ 'content_width' ] = apply_filters( 'nightingale_content_width', 640 );
 }
 
 add_action( 'after_setup_theme', 'nightingale_content_width', 0 );
@@ -422,7 +422,7 @@ if ( in_array( 'sfwd-lms/sfwd-lms.php', $active_plugins, true ) ) {
  * Add custom styling to admin header for learndash pages so you can actually use the links. Dont ask.
  */
 function nightingale_learndash_admin_fix() {
-	echo '<!-- Tony woz here --><style type="text/css">
+	echo '<style type="text/css">
 			    #swfd-header {
 					position: fixed !important;
 					height: 120px;
@@ -434,6 +434,7 @@ function nightingale_learndash_admin_fix() {
 				}
   </style>';
 }
+
 /**
  * Events Calendar style over-ride.
  * N.B. This is not a plugin, nor does it provide any plugin-like changes. This is a theme file for

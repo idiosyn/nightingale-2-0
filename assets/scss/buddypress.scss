@@ -2,6 +2,7 @@ body.buddypress {
   .count {
 	@extend .nhsuk-tag;
   }
+
   #buddypress {
 	.mobile-only {
 	  display : none;
@@ -154,10 +155,11 @@ body.buddypress {
 			@extend .nhsuk-tag--grey;
 		  }
 		}
+
 		:not(.has-likes) {
 		  .ac-state-separator,
 		  .activity-state-likes {
-			display: none;
+			display : none;
 		  }
 		}
 	  }
@@ -197,16 +199,16 @@ body.buddypress {
 	  margin           : 10vh 10vw; /* 15% from the top and centered */
 	  padding          : nhsuk-spacing(3);
 	  border           : 1px solid $color_nhsuk-grey-3;
-	  border-radius: $nhsuk-border-radius;
+	  border-radius    : $nhsuk-border-radius;
 	  width            : 80vw; /* Could be more or less, depending on screen size */
-	  max-height: 80vh;
+	  max-height       : 80vh;
 	}
 
 	/* The Close Button */
 	.close {
-	  color       : $color_nhsuk-red;
-	  float       : right;
-	  font-size   : nhsuk-spacing(5);
+	  color     : $color_nhsuk-red;
+	  float     : right;
+	  font-size : nhsuk-spacing(5);
 	}
 
 	.close:hover,
@@ -270,48 +272,79 @@ body.buddypress {
 		background : $color_nhsuk-blue;
 	  }
 	}
+
 	.bp-search {
 	  width : 100%;
 	}
 
-	  .group-invites-search {
-		@extend .nhsuk-header__search-wrap;
-		width: 80%;
-		margin-left: 10%;
+	.group-invites-search {
+	  @extend .nhsuk-header__search-wrap;
+	  width       : 80%;
+	  margin-left : 10%;
 
-		.nhsuk-search {
-		  @extend .nhsuk-header__search-form;
+	  .nhsuk-search {
+		@extend .nhsuk-header__search-form;
 
-		  .nhsuk-input {
-			border-left   : $nhsuk-border-width-form-element solid $color_nhsuk-grey-3;
-			border-bottom : $nhsuk-border-width-form-element solid $color_nhsuk-grey-3;
-			border-top    : $nhsuk-border-width-form-element solid $color_nhsuk-grey-3;
-			border-right  : 0;
-			border-radius : $nhsuk-border-radius 0 0 $nhsuk-border-radius;
-			float         : left;
-			max-width     : 80%;
-		  }
+		.nhsuk-input {
+		  border-left   : $nhsuk-border-width-form-element solid $color_nhsuk-grey-3;
+		  border-bottom : $nhsuk-border-width-form-element solid $color_nhsuk-grey-3;
+		  border-top    : $nhsuk-border-width-form-element solid $color_nhsuk-grey-3;
+		  border-right  : 0;
+		  border-radius : $nhsuk-border-radius 0 0 $nhsuk-border-radius;
+		  float         : left;
+		  max-width     : 80%;
+		}
 
-		  .nhsuk-search__submit {
-			margin-top    : unset;
-			margin-left   : unset;
-			float         : none;
-			border-right  : $nhsuk-border-width-form-element solid $color_nhsuk-grey-3;
-			border-bottom : $nhsuk-border-width-form-element solid $color_nhsuk-grey-3;
-			border-top    : $nhsuk-border-width-form-element solid $color_nhsuk-grey-3;
-			border-left   : 1px solid $color_nhsuk-grey-3;
-			float         : left;
+		.nhsuk-search__submit {
+		  margin-top    : unset;
+		  margin-left   : unset;
+		  float         : none;
+		  border-right  : $nhsuk-border-width-form-element solid $color_nhsuk-grey-3;
+		  border-bottom : $nhsuk-border-width-form-element solid $color_nhsuk-grey-3;
+		  border-top    : $nhsuk-border-width-form-element solid $color_nhsuk-grey-3;
+		  border-left   : 1px solid $color_nhsuk-grey-3;
+		  float         : left;
 
-			&:hover {
-			  background : $color_nhsuk-dark-blue;
-			}
+		  &:hover {
+			background : $color_nhsuk-dark-blue;
 		  }
 		}
 	  }
+	}
+
 	input[type="submit"], #save {
 	  @extend .nhsuk-button;
+
 	  &#bp_invites_reset {
 		@extend .nhsuk-button--secondary;
+	  }
+	}
+
+	/* Groups Overview page */
+	.groups {
+	  .groups-meta {
+		text-align : center;
+	  }
+
+	  .leave-group {
+		@extend .nhsuk-tag;
+		@extend .nhsuk-tag--yellow;
+
+		&:after {
+		  content : '\00a0 \2612 \00a0 Leave Group';
+		}
+	  }
+
+	  .membership-requested {
+		@extend .nhsuk-button;
+		@extend .nhsuk-button--reverse;
+	  }
+
+	  .nhsuk-body-s {
+		&.last-activity {
+		  @extend .nhsuk-tag;
+		  @extend .nhsuk-tag--white;
+		}
 	  }
 	}
 
@@ -326,11 +359,13 @@ body.buddypress {
 		  border-radius : 50%;
 		}
 	  }
+
 	  .button {
 		@extend .nhsuk-button;
 		@include nhsuk-typography-responsive(16);
-		padding    : nhsuk-spacing(1) nhsuk-spacing(2);
-		float      : left;
+		padding : nhsuk-spacing(1) nhsuk-spacing(2);
+		float   : left;
+
 		&.confirm {
 		  &.member-ban.confirm {
 			background-color : $color_nhsuk-red;
@@ -355,10 +390,11 @@ body.groups.group-invites {
 	  .select2-selection--multiple {
 		.select2-selection__choice {
 		  @extend .nhsuk-tag;
+
 		  .select2-selection__choice__remove {
-			color: $color_nhsuk-red;
-			margin: 0 nhsuk-spacing(2) 0 0;
-			padding: 0 nhsuk-spacing(1);
+			color   : $color_nhsuk-red;
+			margin  : 0 nhsuk-spacing(2) 0 0;
+			padding : 0 nhsuk-spacing(1);
 		  }
 		}
 	  }
@@ -518,12 +554,202 @@ body.groups.group-invites {
 #group-invites-container {
   display : block;
 }
+
 @include mq($until : tablet) {
 
   .bb-groups-invites-left {
 	&.bb-select-member-view {
 	  background : $color_nhsuk-white;
 	}
+  }
+}
+
+/* add Buddypanel styling components */
+
+.buddypanel {
+  position           : fixed;
+  left               : 0;
+  top                : nhsuk-spacing(3);
+  background         : $color_nhsuk-blue;
+  border             : none;
+  position           : fixed;
+  width              : nhsuk-spacing(8);
+  height             : 100%;
+  z-index            : 611;
+  -webkit-transition : width 0.4s;
+  transition         : width 0.4s;
+
+  .panel-head {
+	background : $color_nhsuk-blue;
+
+	a {
+	  left      : nhsuk-spacing(3);
+	  font-size : nhsuk-spacing(6);
+	  color     : $color_nhsuk-white;
+	  padding   : 0 nhsuk-spacing(3);
+
+	  img {
+		fill : white;
+	  }
+	}
+  }
+
+  .side-panel-inner {
+	ul.buddypanel-menu {
+	  margin-top   : nhsuk-spacing(6);
+	  list-style   : none;
+	  padding-left : nhsuk-spacing(2);
+
+	  li.bp-menu {
+		a {
+		  color : $color_nhsuk-white;
+
+		  img {
+			display : block;
+			width   : nhsuk-spacing(5);
+			height  : nhsuk-spacing(5);
+		  }
+
+		  &.focus-visible {
+			img {
+			  border : $nhsuk-border-width-form-element solid $color_nhsuk-yellow;
+			}
+		  }
+
+		  .link-text {
+			display : none;
+		  }
+		}
+	  }
+	}
+  }
+}
+
+body.buddypanel-open {
+  .buddypanel {
+	width      : 220px;
+	transition : width 0.4s;
+
+	.side-panel-inner {
+	  ul.buddypanel-menu {
+
+		padding-left : nhsuk-spacing(3);
+
+		li.bp-menu {
+		  position   : relative;
+		  display    : block;
+		  width      : 180px;
+		  padding    : .75rem 1.25rem;
+		  background : $color_nhsuk-white;
+		  border-top : 1px solid $color_nhsuk-blue;
+
+		  &:hover {
+			background : $color_nhsuk-grey-1;
+			box-shadow : $nhsuk-border-width-form-element $nhsuk-border-width-form-element $color_nhsuk-yellow;
+			cursor     : pointer;
+
+			a {
+			  .link-text {
+				color : $color_nhsuk-white;
+			  }
+			}
+		  }
+
+		  img {
+			display : none;
+		  }
+
+		  a {
+			.link-text {
+			  display : inline-block;
+			  color   : $color_nhsuk-blue;
+			}
+		  }
+		}
+	  }
+	}
+  }
+}
+
+body.logged-in {
+  .buddypanel {
+	top : nhsuk-spacing(5);
+  }
+}
+
+/* Buddypress header nav elements */
+.buddypress-header {
+  .nhsuk-icon-buddy-search {
+	fill        : $color_nhsuk-white;
+	float       : left;
+	margin-left : nhsuk-spacing(3);
+  }
+
+  img {
+	width       : nhsuk-spacing(5);
+	height      : nhsuk-spacing(5);
+	float       : left;
+	margin-left : nhsuk-spacing(3);
+  }
+
+  .buddy-header-search {
+	width : 275px;
+	float : left;
+	display: none;
+	max-height: 40px;
+  }
+
+  .buddy-head-popouts {
+	display    : inline-block;
+	position   : relative;
+	text-align : left;
+
+	.bottom {
+	  min-width        : 200px;
+	  /*max-width:400px;*/
+	  top              : 40px;
+	  left             : 50%;
+	  transform        : translate(-50%, 0);
+	  padding          : 20px;
+	  color            : $color_nhsuk-black;
+	  background-color : $color_nhsuk-white;
+	  font-weight      : normal;
+	  font-size        : 13px;
+	  border-radius    : 8px;
+	  position         : absolute;
+	  z-index          : 99999999;
+	  box-sizing       : border-box;
+	  box-shadow       : 0 1px 8px rgba(0, 0, 0, 0.5);
+	  display          : none;
+
+
+	  i {
+		position    : absolute;
+		bottom      : 100%;
+		left        : 50%;
+		margin-left : -12px;
+		width       : 24px;
+		height      : 12px;
+		overflow    : hidden;
+
+		&::after {
+		  content          : '';
+		  position         : absolute;
+		  width            : 12px;
+		  height           : 12px;
+		  left             : 50%;
+		  transform        : translate(-50%, 50%) rotate(45deg);
+		  background-color : #eeeeee;
+		  box-shadow       : 0 1px 8px rgba(0, 0, 0, 0.5);
+		}
+	  }
+	}
+
+	&:hover .bottom {
+	  display : block;
+	}
+
+
   }
 }
 

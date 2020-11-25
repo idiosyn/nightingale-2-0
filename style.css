@@ -4244,7 +4244,7 @@ body.buddypress #buddypress #send-private-message a,
 body.buddypress #buddypress #aw-whats-new-submit,
 body.buddypress #buddypress #aw-whats-new-reset,
 body.buddypress #buddypress .dz-button,
-body.buddypress #buddypress .button, body.buddypress #buddypress input[type="submit"], body.buddypress #buddypress #save, body.buddypress #buddypress .bp-manage-group-container .button, #bbpress-forums .bb-reply-actions-button, #bbpress-forums .bb-topic-reply-link-wrap,
+body.buddypress #buddypress .button, body.buddypress #buddypress input[type="submit"], body.buddypress #buddypress #save, body.buddypress #buddypress .groups .membership-requested, body.buddypress #buddypress .bp-manage-group-container .button, #bbpress-forums .bb-reply-actions-button, #bbpress-forums .bb-topic-reply-link-wrap,
 #bbpress-forums .bb-topic-subscription-link-wrap, #bbpress-forums .bbp-admin-links a {
   font-weight: 400;
   font-size: 16px;
@@ -4286,7 +4286,7 @@ body.buddypress #buddypress .button, body.buddypress #buddypress input[type="sub
   body.buddypress #buddypress #aw-whats-new-submit,
   body.buddypress #buddypress #aw-whats-new-reset,
   body.buddypress #buddypress .dz-button,
-  body.buddypress #buddypress .button, body.buddypress #buddypress input[type="submit"], body.buddypress #buddypress #save, body.buddypress #buddypress .bp-manage-group-container .button, #bbpress-forums .bb-reply-actions-button, #bbpress-forums .bb-topic-reply-link-wrap,
+  body.buddypress #buddypress .button, body.buddypress #buddypress input[type="submit"], body.buddypress #buddypress #save, body.buddypress #buddypress .groups .membership-requested, body.buddypress #buddypress .bp-manage-group-container .button, #bbpress-forums .bb-reply-actions-button, #bbpress-forums .bb-topic-reply-link-wrap,
   #bbpress-forums .bb-topic-subscription-link-wrap, #bbpress-forums .bbp-admin-links a {
     font-size: 19px;
     font-size: 1.1875rem;
@@ -4308,7 +4308,7 @@ body.buddypress #buddypress .button, body.buddypress #buddypress input[type="sub
   body.buddypress #buddypress #aw-whats-new-submit,
   body.buddypress #buddypress #aw-whats-new-reset,
   body.buddypress #buddypress .dz-button,
-  body.buddypress #buddypress .button, body.buddypress #buddypress input[type="submit"], body.buddypress #buddypress #save, body.buddypress #buddypress .bp-manage-group-container .button, #bbpress-forums .bb-reply-actions-button, #bbpress-forums .bb-topic-reply-link-wrap,
+  body.buddypress #buddypress .button, body.buddypress #buddypress input[type="submit"], body.buddypress #buddypress #save, body.buddypress #buddypress .groups .membership-requested, body.buddypress #buddypress .bp-manage-group-container .button, #bbpress-forums .bb-reply-actions-button, #bbpress-forums .bb-topic-reply-link-wrap,
   #bbpress-forums .bb-topic-subscription-link-wrap, #bbpress-forums .bbp-admin-links a {
     font-size: 14pt;
     line-height: 1.15;
@@ -4329,7 +4329,7 @@ body.buddypress #buddypress .button, body.buddypress #buddypress input[type="sub
   body.buddypress #buddypress #aw-whats-new-submit,
   body.buddypress #buddypress #aw-whats-new-reset,
   body.buddypress #buddypress .dz-button,
-  body.buddypress #buddypress .button, body.buddypress #buddypress input[type="submit"], body.buddypress #buddypress #save, body.buddypress #buddypress .bp-manage-group-container .button, #bbpress-forums .bb-reply-actions-button, #bbpress-forums .bb-topic-reply-link-wrap,
+  body.buddypress #buddypress .button, body.buddypress #buddypress input[type="submit"], body.buddypress #buddypress #save, body.buddypress #buddypress .groups .membership-requested, body.buddypress #buddypress .bp-manage-group-container .button, #bbpress-forums .bb-reply-actions-button, #bbpress-forums .bb-topic-reply-link-wrap,
   #bbpress-forums .bb-topic-subscription-link-wrap, #bbpress-forums .bbp-admin-links a {
     margin-bottom: 36px;
   }
@@ -4349,7 +4349,7 @@ body.buddypress #buddypress .button, body.buddypress #buddypress input[type="sub
   body.buddypress #buddypress #aw-whats-new-submit,
   body.buddypress #buddypress #aw-whats-new-reset,
   body.buddypress #buddypress .dz-button,
-  body.buddypress #buddypress .button, body.buddypress #buddypress input[type="submit"], body.buddypress #buddypress #save, body.buddypress #buddypress .bp-manage-group-container .button, #bbpress-forums .bb-reply-actions-button, #bbpress-forums .bb-topic-reply-link-wrap,
+  body.buddypress #buddypress .button, body.buddypress #buddypress input[type="submit"], body.buddypress #buddypress #save, body.buddypress #buddypress .groups .membership-requested, body.buddypress #buddypress .bp-manage-group-container .button, #bbpress-forums .bb-reply-actions-button, #bbpress-forums .bb-topic-reply-link-wrap,
   #bbpress-forums .bb-topic-subscription-link-wrap, #bbpress-forums .bbp-admin-links a {
     padding: 8px 16px;
   }
@@ -4368,7 +4368,7 @@ body.buddypress #buddypress #send-private-message a:link,
 body.buddypress #buddypress #aw-whats-new-submit:link,
 body.buddypress #buddypress #aw-whats-new-reset:link,
 body.buddypress #buddypress .dz-button:link,
-body.buddypress #buddypress .button:link, body.buddypress #buddypress input:link[type="submit"], body.buddypress #buddypress #save:link, #bbpress-forums .bb-reply-actions-button:link, #bbpress-forums .bb-topic-reply-link-wrap:link,
+body.buddypress #buddypress .button:link, body.buddypress #buddypress input:link[type="submit"], body.buddypress #buddypress #save:link, body.buddypress #buddypress .groups .membership-requested:link, #bbpress-forums .bb-reply-actions-button:link, #bbpress-forums .bb-topic-reply-link-wrap:link,
 #bbpress-forums .bb-topic-subscription-link-wrap:link, #bbpress-forums .bbp-admin-links a:link, .nhsuk-button:visited, button:visited,
 input:visited[type="button"],
 input:visited[type="reset"],
@@ -4382,7 +4382,7 @@ body.buddypress #buddypress #send-private-message a:visited,
 body.buddypress #buddypress #aw-whats-new-submit:visited,
 body.buddypress #buddypress #aw-whats-new-reset:visited,
 body.buddypress #buddypress .dz-button:visited,
-body.buddypress #buddypress .button:visited, body.buddypress #buddypress input:visited[type="submit"], body.buddypress #buddypress #save:visited, #bbpress-forums .bb-reply-actions-button:visited, #bbpress-forums .bb-topic-reply-link-wrap:visited,
+body.buddypress #buddypress .button:visited, body.buddypress #buddypress input:visited[type="submit"], body.buddypress #buddypress #save:visited, body.buddypress #buddypress .groups .membership-requested:visited, #bbpress-forums .bb-reply-actions-button:visited, #bbpress-forums .bb-topic-reply-link-wrap:visited,
 #bbpress-forums .bb-topic-subscription-link-wrap:visited, #bbpress-forums .bbp-admin-links a:visited, .nhsuk-button:active, button:active,
 input:active[type="button"],
 input:active[type="reset"],
@@ -4396,7 +4396,7 @@ body.buddypress #buddypress #send-private-message a:active,
 body.buddypress #buddypress #aw-whats-new-submit:active,
 body.buddypress #buddypress #aw-whats-new-reset:active,
 body.buddypress #buddypress .dz-button:active,
-body.buddypress #buddypress .button:active, body.buddypress #buddypress input:active[type="submit"], body.buddypress #buddypress #save:active, #bbpress-forums .bb-reply-actions-button:active, #bbpress-forums .bb-topic-reply-link-wrap:active,
+body.buddypress #buddypress .button:active, body.buddypress #buddypress input:active[type="submit"], body.buddypress #buddypress #save:active, body.buddypress #buddypress .groups .membership-requested:active, #bbpress-forums .bb-reply-actions-button:active, #bbpress-forums .bb-topic-reply-link-wrap:active,
 #bbpress-forums .bb-topic-subscription-link-wrap:active, #bbpress-forums .bbp-admin-links a:active, .nhsuk-button:hover, button:hover,
 input:hover[type="button"],
 input:hover[type="reset"],
@@ -4410,7 +4410,7 @@ body.buddypress #buddypress #send-private-message a:hover,
 body.buddypress #buddypress #aw-whats-new-submit:hover,
 body.buddypress #buddypress #aw-whats-new-reset:hover,
 body.buddypress #buddypress .dz-button:hover,
-body.buddypress #buddypress .button:hover, body.buddypress #buddypress input:hover[type="submit"], body.buddypress #buddypress #save:hover, #bbpress-forums .bb-reply-actions-button:hover, #bbpress-forums .bb-topic-reply-link-wrap:hover,
+body.buddypress #buddypress .button:hover, body.buddypress #buddypress input:hover[type="submit"], body.buddypress #buddypress #save:hover, body.buddypress #buddypress .groups .membership-requested:hover, #bbpress-forums .bb-reply-actions-button:hover, #bbpress-forums .bb-topic-reply-link-wrap:hover,
 #bbpress-forums .bb-topic-subscription-link-wrap:hover, #bbpress-forums .bbp-admin-links a:hover {
   color: #ffffff;
   text-decoration: none;
@@ -4429,7 +4429,7 @@ body.buddypress #buddypress #send-private-message a::-moz-focus-inner,
 body.buddypress #buddypress #aw-whats-new-submit::-moz-focus-inner,
 body.buddypress #buddypress #aw-whats-new-reset::-moz-focus-inner,
 body.buddypress #buddypress .dz-button::-moz-focus-inner,
-body.buddypress #buddypress .button::-moz-focus-inner, body.buddypress #buddypress input[type="submit"]::-moz-focus-inner, body.buddypress #buddypress #save::-moz-focus-inner, body.buddypress #buddypress .bp-manage-group-container .button::-moz-focus-inner, #bbpress-forums .bb-reply-actions-button::-moz-focus-inner, #bbpress-forums .bb-topic-reply-link-wrap::-moz-focus-inner,
+body.buddypress #buddypress .button::-moz-focus-inner, body.buddypress #buddypress input[type="submit"]::-moz-focus-inner, body.buddypress #buddypress #save::-moz-focus-inner, body.buddypress #buddypress .groups .membership-requested::-moz-focus-inner, body.buddypress #buddypress .bp-manage-group-container .button::-moz-focus-inner, #bbpress-forums .bb-reply-actions-button::-moz-focus-inner, #bbpress-forums .bb-topic-reply-link-wrap::-moz-focus-inner,
 #bbpress-forums .bb-topic-subscription-link-wrap::-moz-focus-inner, #bbpress-forums .bbp-admin-links a::-moz-focus-inner {
   border: 0;
   padding: 0;
@@ -4448,7 +4448,7 @@ body.buddypress #buddypress #send-private-message a:hover,
 body.buddypress #buddypress #aw-whats-new-submit:hover,
 body.buddypress #buddypress #aw-whats-new-reset:hover,
 body.buddypress #buddypress .dz-button:hover,
-body.buddypress #buddypress .button:hover, body.buddypress #buddypress input:hover[type="submit"], body.buddypress #buddypress #save:hover, #bbpress-forums .bb-reply-actions-button:hover, #bbpress-forums .bb-topic-reply-link-wrap:hover,
+body.buddypress #buddypress .button:hover, body.buddypress #buddypress input:hover[type="submit"], body.buddypress #buddypress #save:hover, body.buddypress #buddypress .groups .membership-requested:hover, #bbpress-forums .bb-reply-actions-button:hover, #bbpress-forums .bb-topic-reply-link-wrap:hover,
 #bbpress-forums .bb-topic-subscription-link-wrap:hover, #bbpress-forums .bbp-admin-links a:hover {
   background-color: #00662f;
 }
@@ -4466,7 +4466,7 @@ body.buddypress #buddypress #send-private-message a:focus,
 body.buddypress #buddypress #aw-whats-new-submit:focus,
 body.buddypress #buddypress #aw-whats-new-reset:focus,
 body.buddypress #buddypress .dz-button:focus,
-body.buddypress #buddypress .button:focus, body.buddypress #buddypress input:focus[type="submit"], body.buddypress #buddypress #save:focus, #bbpress-forums .bb-reply-actions-button:focus, #bbpress-forums .bb-topic-reply-link-wrap:focus,
+body.buddypress #buddypress .button:focus, body.buddypress #buddypress input:focus[type="submit"], body.buddypress #buddypress #save:focus, body.buddypress #buddypress .groups .membership-requested:focus, #bbpress-forums .bb-reply-actions-button:focus, #bbpress-forums .bb-topic-reply-link-wrap:focus,
 #bbpress-forums .bb-topic-subscription-link-wrap:focus, #bbpress-forums .bbp-admin-links a:focus {
   background: #ffeb3b;
   box-shadow: 0 4px 0 #212b32;
@@ -4487,7 +4487,7 @@ body.buddypress #buddypress #send-private-message a:focus:visited,
 body.buddypress #buddypress #aw-whats-new-submit:focus:visited,
 body.buddypress #buddypress #aw-whats-new-reset:focus:visited,
 body.buddypress #buddypress .dz-button:focus:visited,
-body.buddypress #buddypress .button:focus:visited, body.buddypress #buddypress input:focus:visited[type="submit"], body.buddypress #buddypress #save:focus:visited, #bbpress-forums .bb-reply-actions-button:focus:visited, #bbpress-forums .bb-topic-reply-link-wrap:focus:visited,
+body.buddypress #buddypress .button:focus:visited, body.buddypress #buddypress input:focus:visited[type="submit"], body.buddypress #buddypress #save:focus:visited, body.buddypress #buddypress .groups .membership-requested:focus:visited, #bbpress-forums .bb-reply-actions-button:focus:visited, #bbpress-forums .bb-topic-reply-link-wrap:focus:visited,
 #bbpress-forums .bb-topic-subscription-link-wrap:focus:visited, #bbpress-forums .bbp-admin-links a:focus:visited {
   color: #212b32;
 }
@@ -4505,7 +4505,7 @@ body.buddypress #buddypress #send-private-message a:focus:visited:active,
 body.buddypress #buddypress #aw-whats-new-submit:focus:visited:active,
 body.buddypress #buddypress #aw-whats-new-reset:focus:visited:active,
 body.buddypress #buddypress .dz-button:focus:visited:active,
-body.buddypress #buddypress .button:focus:visited:active, body.buddypress #buddypress input:focus:visited:active[type="submit"], body.buddypress #buddypress #save:focus:visited:active, #bbpress-forums .bb-reply-actions-button:focus:visited:active, #bbpress-forums .bb-topic-reply-link-wrap:focus:visited:active,
+body.buddypress #buddypress .button:focus:visited:active, body.buddypress #buddypress input:focus:visited:active[type="submit"], body.buddypress #buddypress #save:focus:visited:active, body.buddypress #buddypress .groups .membership-requested:focus:visited:active, #bbpress-forums .bb-reply-actions-button:focus:visited:active, #bbpress-forums .bb-topic-reply-link-wrap:focus:visited:active,
 #bbpress-forums .bb-topic-subscription-link-wrap:focus:visited:active, #bbpress-forums .bbp-admin-links a:focus:visited:active {
   color: #ffffff;
 }
@@ -4523,7 +4523,7 @@ body.buddypress #buddypress #send-private-message a:active,
 body.buddypress #buddypress #aw-whats-new-submit:active,
 body.buddypress #buddypress #aw-whats-new-reset:active,
 body.buddypress #buddypress .dz-button:active,
-body.buddypress #buddypress .button:active, body.buddypress #buddypress input:active[type="submit"], body.buddypress #buddypress #save:active, #bbpress-forums .bb-reply-actions-button:active, #bbpress-forums .bb-topic-reply-link-wrap:active,
+body.buddypress #buddypress .button:active, body.buddypress #buddypress input:active[type="submit"], body.buddypress #buddypress #save:active, body.buddypress #buddypress .groups .membership-requested:active, #bbpress-forums .bb-reply-actions-button:active, #bbpress-forums .bb-topic-reply-link-wrap:active,
 #bbpress-forums .bb-topic-subscription-link-wrap:active, #bbpress-forums .bbp-admin-links a:active {
   background: #00401e;
   box-shadow: none;
@@ -4544,7 +4544,7 @@ body.buddypress #buddypress #send-private-message a::before,
 body.buddypress #buddypress #aw-whats-new-submit::before,
 body.buddypress #buddypress #aw-whats-new-reset::before,
 body.buddypress #buddypress .dz-button::before,
-body.buddypress #buddypress .button::before, body.buddypress #buddypress input[type="submit"]::before, body.buddypress #buddypress #save::before, body.buddypress #buddypress .bp-manage-group-container .button::before, #bbpress-forums .bb-reply-actions-button::before, #bbpress-forums .bb-topic-reply-link-wrap::before,
+body.buddypress #buddypress .button::before, body.buddypress #buddypress input[type="submit"]::before, body.buddypress #buddypress #save::before, body.buddypress #buddypress .groups .membership-requested::before, body.buddypress #buddypress .bp-manage-group-container .button::before, #bbpress-forums .bb-reply-actions-button::before, #bbpress-forums .bb-topic-reply-link-wrap::before,
 #bbpress-forums .bb-topic-subscription-link-wrap::before, #bbpress-forums .bbp-admin-links a::before {
   background: transparent;
   bottom: -6px;
@@ -4569,7 +4569,7 @@ body.buddypress #buddypress #send-private-message a:active::before,
 body.buddypress #buddypress #aw-whats-new-submit:active::before,
 body.buddypress #buddypress #aw-whats-new-reset:active::before,
 body.buddypress #buddypress .dz-button:active::before,
-body.buddypress #buddypress .button:active::before, body.buddypress #buddypress input[type="submit"]:active::before, body.buddypress #buddypress #save:active::before, #bbpress-forums .bb-reply-actions-button:active::before, #bbpress-forums .bb-topic-reply-link-wrap:active::before,
+body.buddypress #buddypress .button:active::before, body.buddypress #buddypress input[type="submit"]:active::before, body.buddypress #buddypress #save:active::before, body.buddypress #buddypress .groups .membership-requested:active::before, #bbpress-forums .bb-reply-actions-button:active::before, #bbpress-forums .bb-topic-reply-link-wrap:active::before,
 #bbpress-forums .bb-topic-subscription-link-wrap:active::before, #bbpress-forums .bbp-admin-links a:active::before {
   top: -6px;
 }
@@ -4591,7 +4591,7 @@ body.buddypress #buddypress .friendship-button a.is-style-secondary,
 body.buddypress #buddypress #send-private-message a.is-style-secondary,
 body.buddypress #buddypress .is-style-secondary#aw-whats-new-submit,
 body.buddypress #buddypress .is-style-secondary.dz-button,
-body.buddypress #buddypress .is-style-secondary.button, body.buddypress #buddypress input.is-style-secondary[type="submit"], body.buddypress #buddypress .is-style-secondary#save, #bbpress-forums .is-style-secondary.bb-topic-reply-link-wrap, #bbpress-forums .bbp-admin-links a.is-style-secondary,
+body.buddypress #buddypress .is-style-secondary.button, body.buddypress #buddypress input.is-style-secondary[type="submit"], body.buddypress #buddypress .is-style-secondary#save, body.buddypress #buddypress .groups .is-style-secondary.membership-requested, #bbpress-forums .is-style-secondary.bb-topic-reply-link-wrap, #bbpress-forums .bbp-admin-links a.is-style-secondary,
 body.buddypress #buddypress .follow-button a,
 body.buddypress #buddypress #aw-whats-new-reset,
 body.buddypress #buddypress .delete-activity, body.buddypress #buddypress input#bp_invites_reset[type="submit"], body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-admin, #bbpress-forums .bb-reply-actions-button,
@@ -4614,7 +4614,7 @@ body.buddypress #buddypress .friendship-button a.is-style-secondary:hover,
 body.buddypress #buddypress #send-private-message a.is-style-secondary:hover,
 body.buddypress #buddypress .is-style-secondary#aw-whats-new-submit:hover,
 body.buddypress #buddypress .is-style-secondary.dz-button:hover,
-body.buddypress #buddypress .is-style-secondary.button:hover, body.buddypress #buddypress input.is-style-secondary:hover[type="submit"], body.buddypress #buddypress .is-style-secondary#save:hover, #bbpress-forums .is-style-secondary.bb-topic-reply-link-wrap:hover, #bbpress-forums .bbp-admin-links a.is-style-secondary:hover,
+body.buddypress #buddypress .is-style-secondary.button:hover, body.buddypress #buddypress input.is-style-secondary:hover[type="submit"], body.buddypress #buddypress .is-style-secondary#save:hover, body.buddypress #buddypress .groups .is-style-secondary.membership-requested:hover, #bbpress-forums .is-style-secondary.bb-topic-reply-link-wrap:hover, #bbpress-forums .bbp-admin-links a.is-style-secondary:hover,
 body.buddypress #buddypress .follow-button a:hover,
 body.buddypress #buddypress #aw-whats-new-reset:hover,
 body.buddypress #buddypress .delete-activity:hover, body.buddypress #buddypress input#bp_invites_reset:hover[type="submit"], body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-admin:hover, #bbpress-forums .bb-reply-actions-button:hover,
@@ -4636,7 +4636,7 @@ body.buddypress #buddypress .friendship-button a.is-style-secondary:focus,
 body.buddypress #buddypress #send-private-message a.is-style-secondary:focus,
 body.buddypress #buddypress .is-style-secondary#aw-whats-new-submit:focus,
 body.buddypress #buddypress .is-style-secondary.dz-button:focus,
-body.buddypress #buddypress .is-style-secondary.button:focus, body.buddypress #buddypress input.is-style-secondary:focus[type="submit"], body.buddypress #buddypress .is-style-secondary#save:focus, #bbpress-forums .is-style-secondary.bb-topic-reply-link-wrap:focus, #bbpress-forums .bbp-admin-links a.is-style-secondary:focus,
+body.buddypress #buddypress .is-style-secondary.button:focus, body.buddypress #buddypress input.is-style-secondary:focus[type="submit"], body.buddypress #buddypress .is-style-secondary#save:focus, body.buddypress #buddypress .groups .is-style-secondary.membership-requested:focus, #bbpress-forums .is-style-secondary.bb-topic-reply-link-wrap:focus, #bbpress-forums .bbp-admin-links a.is-style-secondary:focus,
 body.buddypress #buddypress .follow-button a:focus,
 body.buddypress #buddypress #aw-whats-new-reset:focus,
 body.buddypress #buddypress .delete-activity:focus, body.buddypress #buddypress input#bp_invites_reset:focus[type="submit"], body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-admin:focus, #bbpress-forums .bb-reply-actions-button:focus,
@@ -4661,7 +4661,7 @@ body.buddypress #buddypress .friendship-button a.is-style-secondary:active,
 body.buddypress #buddypress #send-private-message a.is-style-secondary:active,
 body.buddypress #buddypress .is-style-secondary#aw-whats-new-submit:active,
 body.buddypress #buddypress .is-style-secondary.dz-button:active,
-body.buddypress #buddypress .is-style-secondary.button:active, body.buddypress #buddypress input.is-style-secondary:active[type="submit"], body.buddypress #buddypress .is-style-secondary#save:active, #bbpress-forums .is-style-secondary.bb-topic-reply-link-wrap:active, #bbpress-forums .bbp-admin-links a.is-style-secondary:active,
+body.buddypress #buddypress .is-style-secondary.button:active, body.buddypress #buddypress input.is-style-secondary:active[type="submit"], body.buddypress #buddypress .is-style-secondary#save:active, body.buddypress #buddypress .groups .is-style-secondary.membership-requested:active, #bbpress-forums .is-style-secondary.bb-topic-reply-link-wrap:active, #bbpress-forums .bbp-admin-links a.is-style-secondary:active,
 body.buddypress #buddypress .follow-button a:active,
 body.buddypress #buddypress #aw-whats-new-reset:active,
 body.buddypress #buddypress .delete-activity:active, body.buddypress #buddypress input#bp_invites_reset:active[type="submit"], body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-admin:active, #bbpress-forums .bb-reply-actions-button:active,
@@ -4686,7 +4686,7 @@ body.buddypress #buddypress .friendship-button a.nhsuk-button--disabled.is-style
 body.buddypress #buddypress #send-private-message a.nhsuk-button--disabled.is-style-secondary,
 body.buddypress #buddypress .nhsuk-button--disabled.is-style-secondary#aw-whats-new-submit,
 body.buddypress #buddypress .nhsuk-button--disabled.is-style-secondary.dz-button,
-body.buddypress #buddypress .nhsuk-button--disabled.is-style-secondary.button, body.buddypress #buddypress input.nhsuk-button--disabled.is-style-secondary[type="submit"], body.buddypress #buddypress .nhsuk-button--disabled.is-style-secondary#save, #bbpress-forums .nhsuk-button--disabled.is-style-secondary.bb-topic-reply-link-wrap, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.is-style-secondary, body.buddypress #buddypress .follow-button a.nhsuk-button--disabled,
+body.buddypress #buddypress .nhsuk-button--disabled.is-style-secondary.button, body.buddypress #buddypress input.nhsuk-button--disabled.is-style-secondary[type="submit"], body.buddypress #buddypress .nhsuk-button--disabled.is-style-secondary#save, body.buddypress #buddypress .groups .nhsuk-button--disabled.is-style-secondary.membership-requested, #bbpress-forums .nhsuk-button--disabled.is-style-secondary.bb-topic-reply-link-wrap, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.is-style-secondary, body.buddypress #buddypress .follow-button a.nhsuk-button--disabled,
 body.buddypress #buddypress .nhsuk-button--disabled#aw-whats-new-reset,
 body.buddypress #buddypress .nhsuk-button--disabled.delete-activity, body.buddypress #buddypress input.nhsuk-button--disabled#bp_invites_reset[type="submit"], body.buddypress #buddypress .bp-manage-group-container .nhsuk-button--disabled.button.confirm.member-promote-to-admin, #bbpress-forums .nhsuk-button--disabled.bb-reply-actions-button, #bbpress-forums .nhsuk-button--disabled.bb-topic-subscription-link-wrap, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-topic-close-link, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-topic-sticky-link, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-reply-sticky-link, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-topic-merge-link, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-reply-merge-link, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-topic-spam-link, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-reply-spam-link, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-reply-close-link {
   background-color: #4c6272;
@@ -4710,7 +4710,7 @@ body.buddypress #buddypress .is-style-reverse.dz-button,
 body.buddypress #buddypress .is-style-reverse.button, body.buddypress #buddypress input.is-style-reverse[type="submit"], body.buddypress #buddypress .is-style-reverse#save, #bbpress-forums .is-style-reverse.bb-reply-actions-button, #bbpress-forums .is-style-reverse.bb-topic-reply-link-wrap,
 #bbpress-forums .is-style-reverse.bb-topic-subscription-link-wrap, #bbpress-forums .bbp-admin-links a.is-style-reverse, a.nhsuk-button.is-style-reverse, #content .wp-block-file a.is-style-reverse.wp-block-file__button:active, #content .wp-block-file a.is-style-reverse.wp-block-file__button:focus, #content .wp-block-file a.is-style-reverse.wp-block-file__button:hover, #content .wp-block-file a.is-style-reverse.wp-block-file__button:visited, a.is-style-reverse.download-button,
 body.buddypress #buddypress #send-private-message a,
-body.buddypress #buddypress .fav, body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod, #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link, #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link, #bbpress-forums .bbp-admin-links a.bbp-topic-edit-link, #bbpress-forums .bbp-admin-links a.bbp-reply-edit-link {
+body.buddypress #buddypress .fav, body.buddypress #buddypress .groups .membership-requested, body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod, #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link, #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link, #bbpress-forums .bbp-admin-links a.bbp-topic-edit-link, #bbpress-forums .bbp-admin-links a.bbp-reply-edit-link {
   background-color: #ffffff;
   box-shadow: 0 4px 0 #212b32;
   color: #212b32;
@@ -4734,7 +4734,7 @@ body.buddypress #buddypress .is-style-reverse.dz-button:hover,
 body.buddypress #buddypress .is-style-reverse.button:hover, body.buddypress #buddypress input.is-style-reverse:hover[type="submit"], body.buddypress #buddypress .is-style-reverse#save:hover, #bbpress-forums .is-style-reverse.bb-reply-actions-button:hover, #bbpress-forums .is-style-reverse.bb-topic-reply-link-wrap:hover,
 #bbpress-forums .is-style-reverse.bb-topic-subscription-link-wrap:hover, #bbpress-forums .bbp-admin-links a.is-style-reverse:hover,
 body.buddypress #buddypress #send-private-message a:hover,
-body.buddypress #buddypress .fav:hover, body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod:hover, #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link:hover, #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link:hover, #bbpress-forums .bbp-admin-links a.bbp-topic-edit-link:hover, #bbpress-forums .bbp-admin-links a.bbp-reply-edit-link:hover {
+body.buddypress #buddypress .fav:hover, body.buddypress #buddypress .groups .membership-requested:hover, body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod:hover, #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link:hover, #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link:hover, #bbpress-forums .bbp-admin-links a.bbp-topic-edit-link:hover, #bbpress-forums .bbp-admin-links a.bbp-reply-edit-link:hover {
   background-color: #f2f2f2;
   color: #212b32;
 }
@@ -4757,7 +4757,7 @@ body.buddypress #buddypress .is-style-reverse.dz-button:focus,
 body.buddypress #buddypress .is-style-reverse.button:focus, body.buddypress #buddypress input.is-style-reverse:focus[type="submit"], body.buddypress #buddypress .is-style-reverse#save:focus, #bbpress-forums .is-style-reverse.bb-reply-actions-button:focus, #bbpress-forums .is-style-reverse.bb-topic-reply-link-wrap:focus,
 #bbpress-forums .is-style-reverse.bb-topic-subscription-link-wrap:focus, #bbpress-forums .bbp-admin-links a.is-style-reverse:focus,
 body.buddypress #buddypress #send-private-message a:focus,
-body.buddypress #buddypress .fav:focus, body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod:focus, #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link:focus, #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link:focus, #bbpress-forums .bbp-admin-links a.bbp-topic-edit-link:focus, #bbpress-forums .bbp-admin-links a.bbp-reply-edit-link:focus {
+body.buddypress #buddypress .fav:focus, body.buddypress #buddypress .groups .membership-requested:focus, body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod:focus, #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link:focus, #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link:focus, #bbpress-forums .bbp-admin-links a.bbp-topic-edit-link:focus, #bbpress-forums .bbp-admin-links a.bbp-reply-edit-link:focus {
   background: #ffeb3b;
   box-shadow: 0 4px 0 #212b32;
   color: #212b32;
@@ -4782,7 +4782,7 @@ body.buddypress #buddypress .is-style-reverse.dz-button:active,
 body.buddypress #buddypress .is-style-reverse.button:active, body.buddypress #buddypress input.is-style-reverse:active[type="submit"], body.buddypress #buddypress .is-style-reverse#save:active, #bbpress-forums .is-style-reverse.bb-reply-actions-button:active, #bbpress-forums .is-style-reverse.bb-topic-reply-link-wrap:active,
 #bbpress-forums .is-style-reverse.bb-topic-subscription-link-wrap:active, #bbpress-forums .bbp-admin-links a.is-style-reverse:active,
 body.buddypress #buddypress #send-private-message a:active,
-body.buddypress #buddypress .fav:active, body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod:active, #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link:active, #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link:active, #bbpress-forums .bbp-admin-links a.bbp-topic-edit-link:active, #bbpress-forums .bbp-admin-links a.bbp-reply-edit-link:active {
+body.buddypress #buddypress .fav:active, body.buddypress #buddypress .groups .membership-requested:active, body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod:active, #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link:active, #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link:active, #bbpress-forums .bbp-admin-links a.bbp-topic-edit-link:active, #bbpress-forums .bbp-admin-links a.bbp-reply-edit-link:active {
   background: #212b32;
   box-shadow: none;
   color: #ffffff;
@@ -4807,7 +4807,7 @@ body.buddypress #buddypress .is-style-reverse.dz-button:link,
 body.buddypress #buddypress .is-style-reverse.button:link, body.buddypress #buddypress input.is-style-reverse:link[type="submit"], body.buddypress #buddypress .is-style-reverse#save:link, #bbpress-forums .is-style-reverse.bb-reply-actions-button:link, #bbpress-forums .is-style-reverse.bb-topic-reply-link-wrap:link,
 #bbpress-forums .is-style-reverse.bb-topic-subscription-link-wrap:link, #bbpress-forums .bbp-admin-links a.is-style-reverse:link,
 body.buddypress #buddypress #send-private-message a:link,
-body.buddypress #buddypress .fav:link, body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod:link, #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link:link, #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link:link, #bbpress-forums .bbp-admin-links a.bbp-topic-edit-link:link, #bbpress-forums .bbp-admin-links a.bbp-reply-edit-link:link {
+body.buddypress #buddypress .fav:link, body.buddypress #buddypress .groups .membership-requested:link, body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod:link, #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link:link, #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link:link, #bbpress-forums .bbp-admin-links a.bbp-topic-edit-link:link, #bbpress-forums .bbp-admin-links a.bbp-reply-edit-link:link {
   color: #212b32;
 }
 
@@ -4828,7 +4828,7 @@ body.buddypress #buddypress .is-style-reverse#aw-whats-new-reset:link:active,
 body.buddypress #buddypress .is-style-reverse.dz-button:link:active,
 body.buddypress #buddypress .is-style-reverse.button:link:active, body.buddypress #buddypress input.is-style-reverse:link:active[type="submit"], body.buddypress #buddypress .is-style-reverse#save:link:active, #bbpress-forums .is-style-reverse.bb-reply-actions-button:link:active, #bbpress-forums .is-style-reverse.bb-topic-reply-link-wrap:link:active,
 #bbpress-forums .is-style-reverse.bb-topic-subscription-link-wrap:link:active, #bbpress-forums .bbp-admin-links a.is-style-reverse:link:active, body.buddypress #buddypress #send-private-message a:link:active,
-body.buddypress #buddypress .fav:link:active, body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod:link:active, #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link:link:active, #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link:link:active, #bbpress-forums .bbp-admin-links a.bbp-topic-edit-link:link:active, #bbpress-forums .bbp-admin-links a.bbp-reply-edit-link:link:active {
+body.buddypress #buddypress .fav:link:active, body.buddypress #buddypress .groups .membership-requested:link:active, body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod:link:active, #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link:link:active, #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link:link:active, #bbpress-forums .bbp-admin-links a.bbp-topic-edit-link:link:active, #bbpress-forums .bbp-admin-links a.bbp-reply-edit-link:link:active {
   color: #ffffff;
 }
 
@@ -4849,7 +4849,7 @@ body.buddypress #buddypress .nhsuk-button--disabled.is-style-reverse#aw-whats-ne
 body.buddypress #buddypress .nhsuk-button--disabled.is-style-reverse.dz-button,
 body.buddypress #buddypress .nhsuk-button--disabled.is-style-reverse.button, body.buddypress #buddypress input.nhsuk-button--disabled.is-style-reverse[type="submit"], body.buddypress #buddypress .nhsuk-button--disabled.is-style-reverse#save, #bbpress-forums .nhsuk-button--disabled.is-style-reverse.bb-reply-actions-button, #bbpress-forums .nhsuk-button--disabled.is-style-reverse.bb-topic-reply-link-wrap,
 #bbpress-forums .nhsuk-button--disabled.is-style-reverse.bb-topic-subscription-link-wrap, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.is-style-reverse, body.buddypress #buddypress #send-private-message a.nhsuk-button--disabled,
-body.buddypress #buddypress .nhsuk-button--disabled.fav, body.buddypress #buddypress .bp-manage-group-container .nhsuk-button--disabled.button.confirm.member-promote-to-mod, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-topic-trash-link, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-reply-trash-link, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-topic-edit-link, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-reply-edit-link {
+body.buddypress #buddypress .nhsuk-button--disabled.fav, body.buddypress #buddypress .groups .nhsuk-button--disabled.membership-requested, body.buddypress #buddypress .bp-manage-group-container .nhsuk-button--disabled.button.confirm.member-promote-to-mod, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-topic-trash-link, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-reply-trash-link, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-topic-edit-link, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-reply-edit-link {
   background-color: #ffffff;
 }
 
@@ -4870,7 +4870,7 @@ body.buddypress #buddypress .nhsuk-button--disabled.is-style-reverse#aw-whats-ne
 body.buddypress #buddypress .nhsuk-button--disabled.is-style-reverse.dz-button:focus,
 body.buddypress #buddypress .nhsuk-button--disabled.is-style-reverse.button:focus, body.buddypress #buddypress input.nhsuk-button--disabled.is-style-reverse:focus[type="submit"], body.buddypress #buddypress .nhsuk-button--disabled.is-style-reverse#save:focus, #bbpress-forums .nhsuk-button--disabled.is-style-reverse.bb-reply-actions-button:focus, #bbpress-forums .nhsuk-button--disabled.is-style-reverse.bb-topic-reply-link-wrap:focus,
 #bbpress-forums .nhsuk-button--disabled.is-style-reverse.bb-topic-subscription-link-wrap:focus, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.is-style-reverse:focus, body.buddypress #buddypress #send-private-message a.nhsuk-button--disabled:focus,
-body.buddypress #buddypress .nhsuk-button--disabled.fav:focus, body.buddypress #buddypress .bp-manage-group-container .nhsuk-button--disabled.button.confirm.member-promote-to-mod:focus, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-topic-trash-link:focus, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-reply-trash-link:focus, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-topic-edit-link:focus, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-reply-edit-link:focus {
+body.buddypress #buddypress .nhsuk-button--disabled.fav:focus, body.buddypress #buddypress .groups .nhsuk-button--disabled.membership-requested:focus, body.buddypress #buddypress .bp-manage-group-container .nhsuk-button--disabled.button.confirm.member-promote-to-mod:focus, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-topic-trash-link:focus, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-reply-trash-link:focus, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-topic-edit-link:focus, #bbpress-forums .bbp-admin-links a.nhsuk-button--disabled.bbp-reply-edit-link:focus {
   background-color: #ffffff;
 }
 
@@ -4922,6 +4922,7 @@ body.buddypress #buddypress .dz-button[disabled="disabled"],
 body.buddypress #buddypress .button[disabled="disabled"],
 body.buddypress #buddypress input[disabled="disabled"][type="submit"],
 body.buddypress #buddypress #save[disabled="disabled"],
+body.buddypress #buddypress .groups .membership-requested[disabled="disabled"],
 #bbpress-forums .bb-reply-actions-button[disabled="disabled"],
 #bbpress-forums .bb-topic-reply-link-wrap[disabled="disabled"],
 #bbpress-forums .bb-topic-subscription-link-wrap[disabled="disabled"],
@@ -4970,6 +4971,7 @@ body.buddypress #buddypress .dz-button[disabled],
 body.buddypress #buddypress .button[disabled],
 body.buddypress #buddypress input[disabled][type="submit"],
 body.buddypress #buddypress #save[disabled],
+body.buddypress #buddypress .groups .membership-requested[disabled],
 #bbpress-forums .bb-reply-actions-button[disabled],
 #bbpress-forums .bb-topic-reply-link-wrap[disabled],
 #bbpress-forums .bb-topic-subscription-link-wrap[disabled],
@@ -5023,6 +5025,7 @@ body.buddypress #buddypress .dz-button[disabled="disabled"]:hover,
 body.buddypress #buddypress .button[disabled="disabled"]:hover,
 body.buddypress #buddypress input[disabled="disabled"]:hover[type="submit"],
 body.buddypress #buddypress #save[disabled="disabled"]:hover,
+body.buddypress #buddypress .groups .membership-requested[disabled="disabled"]:hover,
 #bbpress-forums .bb-reply-actions-button[disabled="disabled"]:hover,
 #bbpress-forums .bb-topic-reply-link-wrap[disabled="disabled"]:hover,
 #bbpress-forums .bb-topic-subscription-link-wrap[disabled="disabled"]:hover,
@@ -5070,6 +5073,7 @@ body.buddypress #buddypress .dz-button[disabled]:hover,
 body.buddypress #buddypress .button[disabled]:hover,
 body.buddypress #buddypress input[disabled]:hover[type="submit"],
 body.buddypress #buddypress #save[disabled]:hover,
+body.buddypress #buddypress .groups .membership-requested[disabled]:hover,
 #bbpress-forums .bb-reply-actions-button[disabled]:hover,
 #bbpress-forums .bb-topic-reply-link-wrap[disabled]:hover,
 #bbpress-forums .bb-topic-subscription-link-wrap[disabled]:hover,
@@ -5122,6 +5126,7 @@ body.buddypress #buddypress .dz-button[disabled="disabled"]:focus,
 body.buddypress #buddypress .button[disabled="disabled"]:focus,
 body.buddypress #buddypress input[disabled="disabled"]:focus[type="submit"],
 body.buddypress #buddypress #save[disabled="disabled"]:focus,
+body.buddypress #buddypress .groups .membership-requested[disabled="disabled"]:focus,
 #bbpress-forums .bb-reply-actions-button[disabled="disabled"]:focus,
 #bbpress-forums .bb-topic-reply-link-wrap[disabled="disabled"]:focus,
 #bbpress-forums .bb-topic-subscription-link-wrap[disabled="disabled"]:focus,
@@ -5169,6 +5174,7 @@ body.buddypress #buddypress .dz-button[disabled]:focus,
 body.buddypress #buddypress .button[disabled]:focus,
 body.buddypress #buddypress input[disabled]:focus[type="submit"],
 body.buddypress #buddypress #save[disabled]:focus,
+body.buddypress #buddypress .groups .membership-requested[disabled]:focus,
 #bbpress-forums .bb-reply-actions-button[disabled]:focus,
 #bbpress-forums .bb-topic-reply-link-wrap[disabled]:focus,
 #bbpress-forums .bb-topic-subscription-link-wrap[disabled]:focus,
@@ -5221,6 +5227,7 @@ body.buddypress #buddypress .dz-button[disabled="disabled"]:active,
 body.buddypress #buddypress .button[disabled="disabled"]:active,
 body.buddypress #buddypress input[disabled="disabled"]:active[type="submit"],
 body.buddypress #buddypress #save[disabled="disabled"]:active,
+body.buddypress #buddypress .groups .membership-requested[disabled="disabled"]:active,
 #bbpress-forums .bb-reply-actions-button[disabled="disabled"]:active,
 #bbpress-forums .bb-topic-reply-link-wrap[disabled="disabled"]:active,
 #bbpress-forums .bb-topic-subscription-link-wrap[disabled="disabled"]:active,
@@ -5268,6 +5275,7 @@ body.buddypress #buddypress .dz-button[disabled]:active,
 body.buddypress #buddypress .button[disabled]:active,
 body.buddypress #buddypress input[disabled]:active[type="submit"],
 body.buddypress #buddypress #save[disabled]:active,
+body.buddypress #buddypress .groups .membership-requested[disabled]:active,
 #bbpress-forums .bb-reply-actions-button[disabled]:active,
 #bbpress-forums .bb-topic-reply-link-wrap[disabled]:active,
 #bbpress-forums .bb-topic-subscription-link-wrap[disabled]:active,
@@ -5290,7 +5298,7 @@ body.buddypress #buddypress .friendship-button a.is-style-secondary[disabled="di
 body.buddypress #buddypress #send-private-message a.is-style-secondary[disabled="disabled"],
 body.buddypress #buddypress .is-style-secondary#aw-whats-new-submit[disabled="disabled"],
 body.buddypress #buddypress .is-style-secondary.dz-button[disabled="disabled"],
-body.buddypress #buddypress .is-style-secondary.button[disabled="disabled"], body.buddypress #buddypress input.is-style-secondary[disabled="disabled"][type="submit"], body.buddypress #buddypress .is-style-secondary#save[disabled="disabled"], #bbpress-forums .is-style-secondary.bb-topic-reply-link-wrap[disabled="disabled"], #bbpress-forums .bbp-admin-links a.is-style-secondary[disabled="disabled"],
+body.buddypress #buddypress .is-style-secondary.button[disabled="disabled"], body.buddypress #buddypress input.is-style-secondary[disabled="disabled"][type="submit"], body.buddypress #buddypress .is-style-secondary#save[disabled="disabled"], body.buddypress #buddypress .groups .is-style-secondary.membership-requested[disabled="disabled"], #bbpress-forums .is-style-secondary.bb-topic-reply-link-wrap[disabled="disabled"], #bbpress-forums .bbp-admin-links a.is-style-secondary[disabled="disabled"],
 body.buddypress #buddypress .follow-button a[disabled="disabled"],
 body.buddypress #buddypress #aw-whats-new-reset[disabled="disabled"],
 body.buddypress #buddypress .delete-activity[disabled="disabled"], body.buddypress #buddypress input#bp_invites_reset[disabled="disabled"][type="submit"], body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-admin[disabled="disabled"], #bbpress-forums .bb-reply-actions-button[disabled="disabled"],
@@ -5345,6 +5353,7 @@ body.buddypress #buddypress .is-style-secondary.dz-button[disabled],
 body.buddypress #buddypress .is-style-secondary.button[disabled],
 body.buddypress #buddypress input.is-style-secondary[disabled][type="submit"],
 body.buddypress #buddypress .is-style-secondary#save[disabled],
+body.buddypress #buddypress .groups .is-style-secondary.membership-requested[disabled],
 #bbpress-forums .is-style-secondary.bb-topic-reply-link-wrap[disabled],
 #bbpress-forums .bbp-admin-links a.is-style-secondary[disabled],
 body.buddypress #buddypress .follow-button a[disabled],
@@ -5380,7 +5389,7 @@ body.buddypress #buddypress .friendship-button a.is-style-secondary[disabled="di
 body.buddypress #buddypress #send-private-message a.is-style-secondary[disabled="disabled"]:hover,
 body.buddypress #buddypress .is-style-secondary#aw-whats-new-submit[disabled="disabled"]:hover,
 body.buddypress #buddypress .is-style-secondary.dz-button[disabled="disabled"]:hover,
-body.buddypress #buddypress .is-style-secondary.button[disabled="disabled"]:hover, body.buddypress #buddypress input.is-style-secondary[disabled="disabled"]:hover[type="submit"], body.buddypress #buddypress .is-style-secondary#save[disabled="disabled"]:hover, #bbpress-forums .is-style-secondary.bb-topic-reply-link-wrap[disabled="disabled"]:hover, #bbpress-forums .bbp-admin-links a.is-style-secondary[disabled="disabled"]:hover,
+body.buddypress #buddypress .is-style-secondary.button[disabled="disabled"]:hover, body.buddypress #buddypress input.is-style-secondary[disabled="disabled"]:hover[type="submit"], body.buddypress #buddypress .is-style-secondary#save[disabled="disabled"]:hover, body.buddypress #buddypress .groups .is-style-secondary.membership-requested[disabled="disabled"]:hover, #bbpress-forums .is-style-secondary.bb-topic-reply-link-wrap[disabled="disabled"]:hover, #bbpress-forums .bbp-admin-links a.is-style-secondary[disabled="disabled"]:hover,
 body.buddypress #buddypress .follow-button a[disabled="disabled"]:hover,
 body.buddypress #buddypress #aw-whats-new-reset[disabled="disabled"]:hover,
 body.buddypress #buddypress .delete-activity[disabled="disabled"]:hover, body.buddypress #buddypress input#bp_invites_reset[disabled="disabled"]:hover[type="submit"], body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-admin[disabled="disabled"]:hover, #bbpress-forums .bb-reply-actions-button[disabled="disabled"]:hover,
@@ -5431,6 +5440,7 @@ body.buddypress #buddypress .is-style-secondary.dz-button[disabled]:hover,
 body.buddypress #buddypress .is-style-secondary.button[disabled]:hover,
 body.buddypress #buddypress input.is-style-secondary[disabled]:hover[type="submit"],
 body.buddypress #buddypress .is-style-secondary#save[disabled]:hover,
+body.buddypress #buddypress .groups .is-style-secondary.membership-requested[disabled]:hover,
 #bbpress-forums .is-style-secondary.bb-topic-reply-link-wrap[disabled]:hover,
 #bbpress-forums .bbp-admin-links a.is-style-secondary[disabled]:hover,
 body.buddypress #buddypress .follow-button a[disabled]:hover,
@@ -5466,7 +5476,7 @@ body.buddypress #buddypress .friendship-button a.is-style-secondary[disabled="di
 body.buddypress #buddypress #send-private-message a.is-style-secondary[disabled="disabled"]:focus,
 body.buddypress #buddypress .is-style-secondary#aw-whats-new-submit[disabled="disabled"]:focus,
 body.buddypress #buddypress .is-style-secondary.dz-button[disabled="disabled"]:focus,
-body.buddypress #buddypress .is-style-secondary.button[disabled="disabled"]:focus, body.buddypress #buddypress input.is-style-secondary[disabled="disabled"]:focus[type="submit"], body.buddypress #buddypress .is-style-secondary#save[disabled="disabled"]:focus, #bbpress-forums .is-style-secondary.bb-topic-reply-link-wrap[disabled="disabled"]:focus, #bbpress-forums .bbp-admin-links a.is-style-secondary[disabled="disabled"]:focus,
+body.buddypress #buddypress .is-style-secondary.button[disabled="disabled"]:focus, body.buddypress #buddypress input.is-style-secondary[disabled="disabled"]:focus[type="submit"], body.buddypress #buddypress .is-style-secondary#save[disabled="disabled"]:focus, body.buddypress #buddypress .groups .is-style-secondary.membership-requested[disabled="disabled"]:focus, #bbpress-forums .is-style-secondary.bb-topic-reply-link-wrap[disabled="disabled"]:focus, #bbpress-forums .bbp-admin-links a.is-style-secondary[disabled="disabled"]:focus,
 body.buddypress #buddypress .follow-button a[disabled="disabled"]:focus,
 body.buddypress #buddypress #aw-whats-new-reset[disabled="disabled"]:focus,
 body.buddypress #buddypress .delete-activity[disabled="disabled"]:focus, body.buddypress #buddypress input#bp_invites_reset[disabled="disabled"]:focus[type="submit"], body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-admin[disabled="disabled"]:focus, #bbpress-forums .bb-reply-actions-button[disabled="disabled"]:focus,
@@ -5517,6 +5527,7 @@ body.buddypress #buddypress .is-style-secondary.dz-button[disabled]:focus,
 body.buddypress #buddypress .is-style-secondary.button[disabled]:focus,
 body.buddypress #buddypress input.is-style-secondary[disabled]:focus[type="submit"],
 body.buddypress #buddypress .is-style-secondary#save[disabled]:focus,
+body.buddypress #buddypress .groups .is-style-secondary.membership-requested[disabled]:focus,
 #bbpress-forums .is-style-secondary.bb-topic-reply-link-wrap[disabled]:focus,
 #bbpress-forums .bbp-admin-links a.is-style-secondary[disabled]:focus,
 body.buddypress #buddypress .follow-button a[disabled]:focus,
@@ -5551,7 +5562,7 @@ body.buddypress #buddypress .friendship-button a.is-style-secondary[disabled="di
 body.buddypress #buddypress #send-private-message a.is-style-secondary[disabled="disabled"]:active,
 body.buddypress #buddypress .is-style-secondary#aw-whats-new-submit[disabled="disabled"]:active,
 body.buddypress #buddypress .is-style-secondary.dz-button[disabled="disabled"]:active,
-body.buddypress #buddypress .is-style-secondary.button[disabled="disabled"]:active, body.buddypress #buddypress input.is-style-secondary[disabled="disabled"]:active[type="submit"], body.buddypress #buddypress .is-style-secondary#save[disabled="disabled"]:active, #bbpress-forums .is-style-secondary.bb-topic-reply-link-wrap[disabled="disabled"]:active, #bbpress-forums .bbp-admin-links a.is-style-secondary[disabled="disabled"]:active,
+body.buddypress #buddypress .is-style-secondary.button[disabled="disabled"]:active, body.buddypress #buddypress input.is-style-secondary[disabled="disabled"]:active[type="submit"], body.buddypress #buddypress .is-style-secondary#save[disabled="disabled"]:active, body.buddypress #buddypress .groups .is-style-secondary.membership-requested[disabled="disabled"]:active, #bbpress-forums .is-style-secondary.bb-topic-reply-link-wrap[disabled="disabled"]:active, #bbpress-forums .bbp-admin-links a.is-style-secondary[disabled="disabled"]:active,
 body.buddypress #buddypress .follow-button a[disabled="disabled"]:active,
 body.buddypress #buddypress #aw-whats-new-reset[disabled="disabled"]:active,
 body.buddypress #buddypress .delete-activity[disabled="disabled"]:active, body.buddypress #buddypress input#bp_invites_reset[disabled="disabled"]:active[type="submit"], body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-admin[disabled="disabled"]:active, #bbpress-forums .bb-reply-actions-button[disabled="disabled"]:active,
@@ -5602,6 +5613,7 @@ body.buddypress #buddypress .is-style-secondary.dz-button[disabled]:active,
 body.buddypress #buddypress .is-style-secondary.button[disabled]:active,
 body.buddypress #buddypress input.is-style-secondary[disabled]:active[type="submit"],
 body.buddypress #buddypress .is-style-secondary#save[disabled]:active,
+body.buddypress #buddypress .groups .is-style-secondary.membership-requested[disabled]:active,
 #bbpress-forums .is-style-secondary.bb-topic-reply-link-wrap[disabled]:active,
 #bbpress-forums .bbp-admin-links a.is-style-secondary[disabled]:active,
 body.buddypress #buddypress .follow-button a[disabled]:active,
@@ -5641,7 +5653,7 @@ body.buddypress #buddypress .is-style-reverse.dz-button[disabled="disabled"],
 body.buddypress #buddypress .is-style-reverse.button[disabled="disabled"], body.buddypress #buddypress input.is-style-reverse[disabled="disabled"][type="submit"], body.buddypress #buddypress .is-style-reverse#save[disabled="disabled"], #bbpress-forums .is-style-reverse.bb-reply-actions-button[disabled="disabled"], #bbpress-forums .is-style-reverse.bb-topic-reply-link-wrap[disabled="disabled"],
 #bbpress-forums .is-style-reverse.bb-topic-subscription-link-wrap[disabled="disabled"], #bbpress-forums .bbp-admin-links a.is-style-reverse[disabled="disabled"],
 body.buddypress #buddypress #send-private-message a[disabled="disabled"],
-body.buddypress #buddypress .fav[disabled="disabled"], body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod[disabled="disabled"], #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link[disabled="disabled"], #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link[disabled="disabled"], #bbpress-forums .bbp-admin-links a.bbp-topic-edit-link[disabled="disabled"], #bbpress-forums .bbp-admin-links a.bbp-reply-edit-link[disabled="disabled"],
+body.buddypress #buddypress .fav[disabled="disabled"], body.buddypress #buddypress .groups .membership-requested[disabled="disabled"], body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod[disabled="disabled"], #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link[disabled="disabled"], #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link[disabled="disabled"], #bbpress-forums .bbp-admin-links a.bbp-topic-edit-link[disabled="disabled"], #bbpress-forums .bbp-admin-links a.bbp-reply-edit-link[disabled="disabled"],
 .nhsuk-button--reverse[disabled],
 .nhsuk-list-panel .comment-list .nhsuk-list-panel__item #respond #cancel-comment-reply-link[disabled],
 .gform_wrapper .gform_body .gform_previous_button[disabled],
@@ -5696,6 +5708,7 @@ body.buddypress #buddypress .is-style-reverse#save[disabled],
 #bbpress-forums .bbp-admin-links a.is-style-reverse[disabled],
 body.buddypress #buddypress #send-private-message a[disabled],
 body.buddypress #buddypress .fav[disabled],
+body.buddypress #buddypress .groups .membership-requested[disabled],
 body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod[disabled],
 #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link[disabled],
 #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link[disabled],
@@ -5723,7 +5736,7 @@ body.buddypress #buddypress .is-style-reverse.dz-button[disabled="disabled"]:hov
 body.buddypress #buddypress .is-style-reverse.button[disabled="disabled"]:hover, body.buddypress #buddypress input.is-style-reverse[disabled="disabled"]:hover[type="submit"], body.buddypress #buddypress .is-style-reverse#save[disabled="disabled"]:hover, #bbpress-forums .is-style-reverse.bb-reply-actions-button[disabled="disabled"]:hover, #bbpress-forums .is-style-reverse.bb-topic-reply-link-wrap[disabled="disabled"]:hover,
 #bbpress-forums .is-style-reverse.bb-topic-subscription-link-wrap[disabled="disabled"]:hover, #bbpress-forums .bbp-admin-links a.is-style-reverse[disabled="disabled"]:hover,
 body.buddypress #buddypress #send-private-message a[disabled="disabled"]:hover,
-body.buddypress #buddypress .fav[disabled="disabled"]:hover, body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod[disabled="disabled"]:hover, #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link[disabled="disabled"]:hover, #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link[disabled="disabled"]:hover, #bbpress-forums .bbp-admin-links a.bbp-topic-edit-link[disabled="disabled"]:hover, #bbpress-forums .bbp-admin-links a.bbp-reply-edit-link[disabled="disabled"]:hover,
+body.buddypress #buddypress .fav[disabled="disabled"]:hover, body.buddypress #buddypress .groups .membership-requested[disabled="disabled"]:hover, body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod[disabled="disabled"]:hover, #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link[disabled="disabled"]:hover, #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link[disabled="disabled"]:hover, #bbpress-forums .bbp-admin-links a.bbp-topic-edit-link[disabled="disabled"]:hover, #bbpress-forums .bbp-admin-links a.bbp-reply-edit-link[disabled="disabled"]:hover,
 .nhsuk-button--reverse[disabled]:hover,
 .nhsuk-list-panel .comment-list .nhsuk-list-panel__item #respond #cancel-comment-reply-link[disabled]:hover,
 .gform_wrapper .gform_body .gform_previous_button[disabled]:hover,
@@ -5778,6 +5791,7 @@ body.buddypress #buddypress .is-style-reverse#save[disabled]:hover,
 #bbpress-forums .bbp-admin-links a.is-style-reverse[disabled]:hover,
 body.buddypress #buddypress #send-private-message a[disabled]:hover,
 body.buddypress #buddypress .fav[disabled]:hover,
+body.buddypress #buddypress .groups .membership-requested[disabled]:hover,
 body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod[disabled]:hover,
 #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link[disabled]:hover,
 #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link[disabled]:hover,
@@ -5805,7 +5819,7 @@ body.buddypress #buddypress .is-style-reverse.dz-button[disabled="disabled"]:foc
 body.buddypress #buddypress .is-style-reverse.button[disabled="disabled"]:focus, body.buddypress #buddypress input.is-style-reverse[disabled="disabled"]:focus[type="submit"], body.buddypress #buddypress .is-style-reverse#save[disabled="disabled"]:focus, #bbpress-forums .is-style-reverse.bb-reply-actions-button[disabled="disabled"]:focus, #bbpress-forums .is-style-reverse.bb-topic-reply-link-wrap[disabled="disabled"]:focus,
 #bbpress-forums .is-style-reverse.bb-topic-subscription-link-wrap[disabled="disabled"]:focus, #bbpress-forums .bbp-admin-links a.is-style-reverse[disabled="disabled"]:focus,
 body.buddypress #buddypress #send-private-message a[disabled="disabled"]:focus,
-body.buddypress #buddypress .fav[disabled="disabled"]:focus, body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod[disabled="disabled"]:focus, #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link[disabled="disabled"]:focus, #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link[disabled="disabled"]:focus, #bbpress-forums .bbp-admin-links a.bbp-topic-edit-link[disabled="disabled"]:focus, #bbpress-forums .bbp-admin-links a.bbp-reply-edit-link[disabled="disabled"]:focus,
+body.buddypress #buddypress .fav[disabled="disabled"]:focus, body.buddypress #buddypress .groups .membership-requested[disabled="disabled"]:focus, body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod[disabled="disabled"]:focus, #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link[disabled="disabled"]:focus, #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link[disabled="disabled"]:focus, #bbpress-forums .bbp-admin-links a.bbp-topic-edit-link[disabled="disabled"]:focus, #bbpress-forums .bbp-admin-links a.bbp-reply-edit-link[disabled="disabled"]:focus,
 .nhsuk-button--reverse[disabled]:focus,
 .nhsuk-list-panel .comment-list .nhsuk-list-panel__item #respond #cancel-comment-reply-link[disabled]:focus,
 .gform_wrapper .gform_body .gform_previous_button[disabled]:focus,
@@ -5860,6 +5874,7 @@ body.buddypress #buddypress .is-style-reverse#save[disabled]:focus,
 #bbpress-forums .bbp-admin-links a.is-style-reverse[disabled]:focus,
 body.buddypress #buddypress #send-private-message a[disabled]:focus,
 body.buddypress #buddypress .fav[disabled]:focus,
+body.buddypress #buddypress .groups .membership-requested[disabled]:focus,
 body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod[disabled]:focus,
 #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link[disabled]:focus,
 #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link[disabled]:focus,
@@ -5886,7 +5901,7 @@ body.buddypress #buddypress .is-style-reverse.dz-button[disabled="disabled"]:act
 body.buddypress #buddypress .is-style-reverse.button[disabled="disabled"]:active, body.buddypress #buddypress input.is-style-reverse[disabled="disabled"]:active[type="submit"], body.buddypress #buddypress .is-style-reverse#save[disabled="disabled"]:active, #bbpress-forums .is-style-reverse.bb-reply-actions-button[disabled="disabled"]:active, #bbpress-forums .is-style-reverse.bb-topic-reply-link-wrap[disabled="disabled"]:active,
 #bbpress-forums .is-style-reverse.bb-topic-subscription-link-wrap[disabled="disabled"]:active, #bbpress-forums .bbp-admin-links a.is-style-reverse[disabled="disabled"]:active,
 body.buddypress #buddypress #send-private-message a[disabled="disabled"]:active,
-body.buddypress #buddypress .fav[disabled="disabled"]:active, body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod[disabled="disabled"]:active, #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link[disabled="disabled"]:active, #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link[disabled="disabled"]:active, #bbpress-forums .bbp-admin-links a.bbp-topic-edit-link[disabled="disabled"]:active, #bbpress-forums .bbp-admin-links a.bbp-reply-edit-link[disabled="disabled"]:active,
+body.buddypress #buddypress .fav[disabled="disabled"]:active, body.buddypress #buddypress .groups .membership-requested[disabled="disabled"]:active, body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod[disabled="disabled"]:active, #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link[disabled="disabled"]:active, #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link[disabled="disabled"]:active, #bbpress-forums .bbp-admin-links a.bbp-topic-edit-link[disabled="disabled"]:active, #bbpress-forums .bbp-admin-links a.bbp-reply-edit-link[disabled="disabled"]:active,
 .nhsuk-button--reverse[disabled]:active,
 .nhsuk-list-panel .comment-list .nhsuk-list-panel__item #respond #cancel-comment-reply-link[disabled]:active,
 .gform_wrapper .gform_body .gform_previous_button[disabled]:active,
@@ -5941,6 +5956,7 @@ body.buddypress #buddypress .is-style-reverse#save[disabled]:active,
 #bbpress-forums .bbp-admin-links a.is-style-reverse[disabled]:active,
 body.buddypress #buddypress #send-private-message a[disabled]:active,
 body.buddypress #buddypress .fav[disabled]:active,
+body.buddypress #buddypress .groups .membership-requested[disabled]:active,
 body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod[disabled]:active,
 #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link[disabled]:active,
 #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link[disabled]:active,
@@ -5966,7 +5982,7 @@ body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-pr
 .ie8 body.buddypress #buddypress #aw-whats-new-submit:focus, body.buddypress #buddypress .ie8 #aw-whats-new-submit:focus,
 .ie8 body.buddypress #buddypress #aw-whats-new-reset:focus, body.buddypress #buddypress .ie8 #aw-whats-new-reset:focus,
 .ie8 body.buddypress #buddypress .dz-button:focus, body.buddypress #buddypress .ie8 .dz-button:focus,
-.ie8 body.buddypress #buddypress .button:focus, body.buddypress #buddypress .ie8 .button:focus, .ie8 body.buddypress #buddypress input:focus[type="submit"], body.buddypress #buddypress .ie8 input:focus[type="submit"], .ie8 body.buddypress #buddypress #save:focus, body.buddypress #buddypress .ie8 #save:focus, .ie8 #bbpress-forums .bb-reply-actions-button:focus, #bbpress-forums .ie8 .bb-reply-actions-button:focus, .ie8 #bbpress-forums .bb-topic-reply-link-wrap:focus, #bbpress-forums .ie8 .bb-topic-reply-link-wrap:focus,
+.ie8 body.buddypress #buddypress .button:focus, body.buddypress #buddypress .ie8 .button:focus, .ie8 body.buddypress #buddypress input:focus[type="submit"], body.buddypress #buddypress .ie8 input:focus[type="submit"], .ie8 body.buddypress #buddypress #save:focus, body.buddypress #buddypress .ie8 #save:focus, .ie8 body.buddypress #buddypress .groups .membership-requested:focus, body.buddypress #buddypress .groups .ie8 .membership-requested:focus, .ie8 #bbpress-forums .bb-reply-actions-button:focus, #bbpress-forums .ie8 .bb-reply-actions-button:focus, .ie8 #bbpress-forums .bb-topic-reply-link-wrap:focus, #bbpress-forums .ie8 .bb-topic-reply-link-wrap:focus,
 .ie8 #bbpress-forums .bb-topic-subscription-link-wrap:focus, #bbpress-forums .ie8 .bb-topic-subscription-link-wrap:focus, .ie8 #bbpress-forums .bbp-admin-links a:focus, #bbpress-forums .bbp-admin-links .ie8 a:focus {
   outline: 1px dotted #212b32;
 }
@@ -11215,7 +11231,7 @@ body.buddypress #buddypress .subnav-filters div input[type="search"]:focus::-ms-
 /* ==========================================================================
    #TAG
    ========================================================================== */
-.nhsuk-tag, .pagination_split_post .post-page-numbers, #primary footer .edit-link, #primary footer .tags-links, #primary footer .cat-links, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .fn .comment-author-label, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .fn .comment-author-label.comment-author-label-administrator, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .fn .comment-author-label.comment-author-label-facilitator, .nhsuk-list-panel .comment-respond .logged-in-as a:nth-of-type(2), .article-footer .comments-link, .learndash-wrapper .ld-status, .learndash-wrapper .ld-status.ld-status-progress, .learndash-wrapper .ld-status.ld-status-complete, .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-progress, .learndash-wrapper .ld-course-status .ld-status.ld-status-progress, .learndash-wrapper .ld-item-details .ld-status.ld-status-progress, .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-complete, .learndash-wrapper .ld-course-status .ld-status.ld-status-complete, .learndash-wrapper .ld-item-details .ld-status.ld-status-complete, .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-waiting, .learndash-wrapper .ld-course-status .ld-status.ld-status-waiting, .learndash-wrapper .ld-item-details .ld-status.ld-status-waiting, .download-box .download-count, body.buddypress .count, body.buddypress #buddypress .membership-requested, body.buddypress #buddypress #comments .comment-body .activity-state .activity-state-comments, body.buddypress #buddypress #comments .comment-body .activity-state .activity-state-likes, body.groups.group-invites #send_group_invite_form .select2-container--default .select2-selection--multiple .select2-selection__choice {
+.nhsuk-tag, .pagination_split_post .post-page-numbers, #primary footer .edit-link, #primary footer .tags-links, #primary footer .cat-links, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .fn .comment-author-label, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .fn .comment-author-label.comment-author-label-administrator, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .fn .comment-author-label.comment-author-label-facilitator, .nhsuk-list-panel .comment-respond .logged-in-as a:nth-of-type(2), .article-footer .comments-link, .learndash-wrapper .ld-status, .learndash-wrapper .ld-status.ld-status-progress, .learndash-wrapper .ld-status.ld-status-complete, .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-progress, .learndash-wrapper .ld-course-status .ld-status.ld-status-progress, .learndash-wrapper .ld-item-details .ld-status.ld-status-progress, .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-complete, .learndash-wrapper .ld-course-status .ld-status.ld-status-complete, .learndash-wrapper .ld-item-details .ld-status.ld-status-complete, .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-waiting, .learndash-wrapper .ld-course-status .ld-status.ld-status-waiting, .learndash-wrapper .ld-item-details .ld-status.ld-status-waiting, .download-box .download-count, body.buddypress .count, body.buddypress #buddypress .membership-requested, body.buddypress #buddypress #comments .comment-body .activity-state .activity-state-comments, body.buddypress #buddypress #comments .comment-body .activity-state .activity-state-likes, body.buddypress #buddypress .groups .leave-group, body.buddypress #buddypress .groups .nhsuk-body-s.last-activity, body.buddypress #buddypress .groups .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .comment-meta a.last-activity, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .comment-meta body.buddypress #buddypress .groups a.last-activity, body.buddypress #buddypress .groups .article-footer .last-activity.cat-links, .article-footer body.buddypress #buddypress .groups .last-activity.cat-links, body.buddypress #buddypress .groups .article-footer .last-activity.tags-links, .article-footer body.buddypress #buddypress .groups .last-activity.tags-links, body.buddypress #buddypress .groups .article-footer .last-activity.comments-link, .article-footer body.buddypress #buddypress .groups .last-activity.comments-link, body.buddypress #buddypress .groups #bbpress-forums .last-activity.bbp-author-name, #bbpress-forums body.buddypress #buddypress .groups .last-activity.bbp-author-name, body.groups.group-invites #send_group_invite_form .select2-container--default .select2-selection--multiple .select2-selection__choice {
   font-weight: 600;
   font-size: 14px;
   font-size: 0.875rem;
@@ -11234,7 +11250,7 @@ body.buddypress #buddypress .subnav-filters div input[type="search"]:focus::-ms-
 }
 
 @media (min-width: 40.0625em) {
-  .nhsuk-tag, .pagination_split_post .post-page-numbers, #primary footer .edit-link, #primary footer .tags-links, #primary footer .cat-links, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .fn .comment-author-label, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .fn .comment-author-label.comment-author-label-administrator, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .fn .comment-author-label.comment-author-label-facilitator, .nhsuk-list-panel .comment-respond .logged-in-as a:nth-of-type(2), .article-footer .comments-link, .learndash-wrapper .ld-status, .learndash-wrapper .ld-status.ld-status-progress, .learndash-wrapper .ld-status.ld-status-complete, .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-progress, .learndash-wrapper .ld-course-status .ld-status.ld-status-progress, .learndash-wrapper .ld-item-details .ld-status.ld-status-progress, .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-complete, .learndash-wrapper .ld-course-status .ld-status.ld-status-complete, .learndash-wrapper .ld-item-details .ld-status.ld-status-complete, .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-waiting, .learndash-wrapper .ld-course-status .ld-status.ld-status-waiting, .learndash-wrapper .ld-item-details .ld-status.ld-status-waiting, .download-box .download-count, body.buddypress .count, body.buddypress #buddypress .membership-requested, body.buddypress #buddypress #comments .comment-body .activity-state .activity-state-comments, body.buddypress #buddypress #comments .comment-body .activity-state .activity-state-likes, body.groups.group-invites #send_group_invite_form .select2-container--default .select2-selection--multiple .select2-selection__choice {
+  .nhsuk-tag, .pagination_split_post .post-page-numbers, #primary footer .edit-link, #primary footer .tags-links, #primary footer .cat-links, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .fn .comment-author-label, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .fn .comment-author-label.comment-author-label-administrator, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .fn .comment-author-label.comment-author-label-facilitator, .nhsuk-list-panel .comment-respond .logged-in-as a:nth-of-type(2), .article-footer .comments-link, .learndash-wrapper .ld-status, .learndash-wrapper .ld-status.ld-status-progress, .learndash-wrapper .ld-status.ld-status-complete, .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-progress, .learndash-wrapper .ld-course-status .ld-status.ld-status-progress, .learndash-wrapper .ld-item-details .ld-status.ld-status-progress, .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-complete, .learndash-wrapper .ld-course-status .ld-status.ld-status-complete, .learndash-wrapper .ld-item-details .ld-status.ld-status-complete, .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-waiting, .learndash-wrapper .ld-course-status .ld-status.ld-status-waiting, .learndash-wrapper .ld-item-details .ld-status.ld-status-waiting, .download-box .download-count, body.buddypress .count, body.buddypress #buddypress .membership-requested, body.buddypress #buddypress #comments .comment-body .activity-state .activity-state-comments, body.buddypress #buddypress #comments .comment-body .activity-state .activity-state-likes, body.buddypress #buddypress .groups .leave-group, body.buddypress #buddypress .groups .nhsuk-body-s.last-activity, body.buddypress #buddypress .groups .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .comment-meta a.last-activity, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .comment-meta body.buddypress #buddypress .groups a.last-activity, body.buddypress #buddypress .groups .article-footer .last-activity.cat-links, .article-footer body.buddypress #buddypress .groups .last-activity.cat-links, body.buddypress #buddypress .groups .article-footer .last-activity.tags-links, .article-footer body.buddypress #buddypress .groups .last-activity.tags-links, body.buddypress #buddypress .groups .article-footer .last-activity.comments-link, .article-footer body.buddypress #buddypress .groups .last-activity.comments-link, body.buddypress #buddypress .groups #bbpress-forums .last-activity.bbp-author-name, #bbpress-forums body.buddypress #buddypress .groups .last-activity.bbp-author-name, body.groups.group-invites #send_group_invite_form .select2-container--default .select2-selection--multiple .select2-selection__choice {
     font-size: 16px;
     font-size: 1rem;
     line-height: 1;
@@ -11242,7 +11258,7 @@ body.buddypress #buddypress .subnav-filters div input[type="search"]:focus::-ms-
 }
 
 @media print {
-  .nhsuk-tag, .pagination_split_post .post-page-numbers, #primary footer .edit-link, #primary footer .tags-links, #primary footer .cat-links, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .fn .comment-author-label, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .fn .comment-author-label.comment-author-label-administrator, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .fn .comment-author-label.comment-author-label-facilitator, .nhsuk-list-panel .comment-respond .logged-in-as a:nth-of-type(2), .article-footer .comments-link, .learndash-wrapper .ld-status, .learndash-wrapper .ld-status.ld-status-progress, .learndash-wrapper .ld-status.ld-status-complete, .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-progress, .learndash-wrapper .ld-course-status .ld-status.ld-status-progress, .learndash-wrapper .ld-item-details .ld-status.ld-status-progress, .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-complete, .learndash-wrapper .ld-course-status .ld-status.ld-status-complete, .learndash-wrapper .ld-item-details .ld-status.ld-status-complete, .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-waiting, .learndash-wrapper .ld-course-status .ld-status.ld-status-waiting, .learndash-wrapper .ld-item-details .ld-status.ld-status-waiting, .download-box .download-count, body.buddypress .count, body.buddypress #buddypress .membership-requested, body.buddypress #buddypress #comments .comment-body .activity-state .activity-state-comments, body.buddypress #buddypress #comments .comment-body .activity-state .activity-state-likes, body.groups.group-invites #send_group_invite_form .select2-container--default .select2-selection--multiple .select2-selection__choice {
+  .nhsuk-tag, .pagination_split_post .post-page-numbers, #primary footer .edit-link, #primary footer .tags-links, #primary footer .cat-links, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .fn .comment-author-label, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .fn .comment-author-label.comment-author-label-administrator, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .fn .comment-author-label.comment-author-label-facilitator, .nhsuk-list-panel .comment-respond .logged-in-as a:nth-of-type(2), .article-footer .comments-link, .learndash-wrapper .ld-status, .learndash-wrapper .ld-status.ld-status-progress, .learndash-wrapper .ld-status.ld-status-complete, .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-progress, .learndash-wrapper .ld-course-status .ld-status.ld-status-progress, .learndash-wrapper .ld-item-details .ld-status.ld-status-progress, .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-complete, .learndash-wrapper .ld-course-status .ld-status.ld-status-complete, .learndash-wrapper .ld-item-details .ld-status.ld-status-complete, .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-waiting, .learndash-wrapper .ld-course-status .ld-status.ld-status-waiting, .learndash-wrapper .ld-item-details .ld-status.ld-status-waiting, .download-box .download-count, body.buddypress .count, body.buddypress #buddypress .membership-requested, body.buddypress #buddypress #comments .comment-body .activity-state .activity-state-comments, body.buddypress #buddypress #comments .comment-body .activity-state .activity-state-likes, body.buddypress #buddypress .groups .leave-group, body.buddypress #buddypress .groups .nhsuk-body-s.last-activity, body.buddypress #buddypress .groups .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .comment-meta a.last-activity, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .comment-meta body.buddypress #buddypress .groups a.last-activity, body.buddypress #buddypress .groups .article-footer .last-activity.cat-links, .article-footer body.buddypress #buddypress .groups .last-activity.cat-links, body.buddypress #buddypress .groups .article-footer .last-activity.tags-links, .article-footer body.buddypress #buddypress .groups .last-activity.tags-links, body.buddypress #buddypress .groups .article-footer .last-activity.comments-link, .article-footer body.buddypress #buddypress .groups .last-activity.comments-link, body.buddypress #buddypress .groups #bbpress-forums .last-activity.bbp-author-name, #bbpress-forums body.buddypress #buddypress .groups .last-activity.bbp-author-name, body.groups.group-invites #send_group_invite_form .select2-container--default .select2-selection--multiple .select2-selection__choice {
     font-size: 14pt;
     line-height: 1;
   }
@@ -11250,7 +11266,7 @@ body.buddypress #buddypress .subnav-filters div input[type="search"]:focus::-ms-
 
 /* Colour variants
   ========================================================================== */
-.nhsuk-tag--white, .pagination_split_post .post-page-numbers.current, #primary footer .edit-link, .nhsuk-list-panel .comment-respond .logged-in-as a:nth-of-type(2), body.buddypress #buddypress .membership-requested, body.buddypress #buddypress #comments .comment-body .activity-state .activity-state-comments {
+.nhsuk-tag--white, .pagination_split_post .post-page-numbers.current, #primary footer .edit-link, .nhsuk-list-panel .comment-respond .logged-in-as a:nth-of-type(2), body.buddypress #buddypress .membership-requested, body.buddypress #buddypress #comments .comment-body .activity-state .activity-state-comments, body.buddypress #buddypress .groups .nhsuk-body-s.last-activity, body.buddypress #buddypress .groups .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .comment-meta a.last-activity, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item .comment-body .vcard .comment-meta body.buddypress #buddypress .groups a.last-activity, body.buddypress #buddypress .groups .article-footer .last-activity.cat-links, .article-footer body.buddypress #buddypress .groups .last-activity.cat-links, body.buddypress #buddypress .groups .article-footer .last-activity.tags-links, .article-footer body.buddypress #buddypress .groups .last-activity.tags-links, body.buddypress #buddypress .groups .article-footer .last-activity.comments-link, .article-footer body.buddypress #buddypress .groups .last-activity.comments-link, body.buddypress #buddypress .groups #bbpress-forums .last-activity.bbp-author-name, #bbpress-forums body.buddypress #buddypress .groups .last-activity.bbp-author-name {
   background-color: #ffffff;
   border-color: #212b32;
   color: #212b32;
@@ -11304,7 +11320,7 @@ body.buddypress #buddypress .subnav-filters div input[type="search"]:focus::-ms-
   color: #4d3708;
 }
 
-.nhsuk-tag--yellow, .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-waiting, .learndash-wrapper .ld-course-status .ld-status.ld-status-waiting, .learndash-wrapper .ld-item-details .ld-status.ld-status-waiting {
+.nhsuk-tag--yellow, .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-waiting, .learndash-wrapper .ld-course-status .ld-status.ld-status-waiting, .learndash-wrapper .ld-item-details .ld-status.ld-status-waiting, body.buddypress #buddypress .groups .leave-group {
   background-color: #fff59d;
   border-color: #4d4712;
   color: #4d4712;
@@ -11503,7 +11519,7 @@ body.buddypress #buddypress .is-style-reverse.dz-button:visited,
 body.buddypress #buddypress .is-style-reverse.button:visited, body.buddypress #buddypress input.is-style-reverse:visited[type="submit"], body.buddypress #buddypress .is-style-reverse#save:visited, #bbpress-forums .is-style-reverse.bb-reply-actions-button:visited, #bbpress-forums .is-style-reverse.bb-topic-reply-link-wrap:visited,
 #bbpress-forums .is-style-reverse.bb-topic-subscription-link-wrap:visited, #bbpress-forums .bbp-admin-links a.is-style-reverse:visited,
 body.buddypress #buddypress #send-private-message a:visited,
-body.buddypress #buddypress .fav:visited, body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod:visited, #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link:visited, #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link:visited, #bbpress-forums .bbp-admin-links a.bbp-topic-edit-link:visited, #bbpress-forums .bbp-admin-links a.bbp-reply-edit-link:visited {
+body.buddypress #buddypress .fav:visited, body.buddypress #buddypress .groups .membership-requested:visited, body.buddypress #buddypress .bp-manage-group-container .button.confirm.member-promote-to-mod:visited, #bbpress-forums .bbp-admin-links a.bbp-topic-trash-link:visited, #bbpress-forums .bbp-admin-links a.bbp-reply-trash-link:visited, #bbpress-forums .bbp-admin-links a.bbp-topic-edit-link:visited, #bbpress-forums .bbp-admin-links a.bbp-reply-edit-link:visited {
   color: #212b32;
 }
 
@@ -14205,7 +14221,7 @@ body.buddypress #buddypress #send-private-message a.is-style-secondary,
 body.buddypress #buddypress .is-style-secondary#aw-whats-new-submit,
 body.buddypress #buddypress .is-style-secondary#aw-whats-new-reset,
 body.buddypress #buddypress .is-style-secondary.dz-button,
-body.buddypress #buddypress .is-style-secondary.button, body.buddypress #buddypress input.is-style-secondary[type="submit"], body.buddypress #buddypress .is-style-secondary#save, #bbpress-forums .is-style-secondary.bb-reply-actions-button, #bbpress-forums .is-style-secondary.bb-topic-reply-link-wrap,
+body.buddypress #buddypress .is-style-secondary.button, body.buddypress #buddypress input.is-style-secondary[type="submit"], body.buddypress #buddypress .is-style-secondary#save, body.buddypress #buddypress .groups .is-style-secondary.membership-requested, #bbpress-forums .is-style-secondary.bb-reply-actions-button, #bbpress-forums .is-style-secondary.bb-topic-reply-link-wrap,
 #bbpress-forums .is-style-secondary.bb-topic-subscription-link-wrap, #bbpress-forums .bbp-admin-links a.is-style-secondary {
   /* secondary button style*/
 }
@@ -14223,7 +14239,7 @@ body.buddypress #buddypress #send-private-message a.is-style-reverse,
 body.buddypress #buddypress .is-style-reverse#aw-whats-new-submit,
 body.buddypress #buddypress .is-style-reverse#aw-whats-new-reset,
 body.buddypress #buddypress .is-style-reverse.dz-button,
-body.buddypress #buddypress .is-style-reverse.button, body.buddypress #buddypress input.is-style-reverse[type="submit"], body.buddypress #buddypress .is-style-reverse#save, #bbpress-forums .is-style-reverse.bb-reply-actions-button, #bbpress-forums .is-style-reverse.bb-topic-reply-link-wrap,
+body.buddypress #buddypress .is-style-reverse.button, body.buddypress #buddypress input.is-style-reverse[type="submit"], body.buddypress #buddypress .is-style-reverse#save, body.buddypress #buddypress .groups .is-style-reverse.membership-requested, #bbpress-forums .is-style-reverse.bb-reply-actions-button, #bbpress-forums .is-style-reverse.bb-topic-reply-link-wrap,
 #bbpress-forums .is-style-reverse.bb-topic-subscription-link-wrap, #bbpress-forums .bbp-admin-links a.is-style-reverse, a.nhsuk-button.is-style-reverse, #content a.is-style-reverse.wp-block-button__link, #content a.is-style-reverse.wp-block-file__button, #content .wp-block-file a.is-style-reverse.wp-block-file__button:active, #content .wp-block-file a.is-style-reverse.wp-block-file__button:focus, #content .wp-block-file a.is-style-reverse.wp-block-file__button:hover, #content .wp-block-file a.is-style-reverse.wp-block-file__button:visited, #login #loginform a.is-style-reverse#wp-submit, .nhsuk-list-panel .comment-list .nhsuk-list-panel__item #respond a.is-style-reverse#cancel-comment-reply-link, .gform_wrapper .gform_body a.is-style-reverse.gform_button, .gform_wrapper .gform_body a.is-style-reverse.gform_next_button, .gform_wrapper .gform_body a.is-style-reverse.gform_previous_button, .tippy-popper .tippy-content a.is-style-reverse.gv-approval-toggle, .learndash-wrapper a.is-style-reverse.ld-button, .learndash-wrapper .ld-item-list-actions a.is-style-reverse.ld-expand-button, .learndash-wrapper a.is-style-reverse.ld-logout, .learndash-wrapper a.is-style-reverse.ld-login, .learndash-wrapper .ld-content-actions a.is-style-reverse.ld-primary-color, .learndash-wrapper .ld-item-list .ld-section-heading a.is-style-reverse.ld-search-prompt, .learndash-wrapper .ld-item-list .ld-item-search .ld-item-search-wrapper .ld-item-search-submit a.is-style-reverse.ld-button, .learndash-wrapper .wpProQuiz_content a.is-style-reverse.wpProQuiz_button, .ld-course-list-items .ld_course_grid article .ld_course_grid_button a.is-style-reverse.btn, .ld-course-list-items .ld_course_grid article .ld_course_grid_button a.is-style-reverse.btn-primary, #tribe-events-content a.is-style-reverse.tribe-events-gcal,
 #tribe-events-content a.is-style-reverse.tribe-events-ical,
 #tribe-events-content a.is-style-reverse.tribe-events-button, html.js .tribe-events-page-template.wp-embed-responsive .wp-embed.nhsuk-care-card .tribe-events-event-cost a.is-style-reverse, html.js .tribe-events-page-template.wp-embed-responsive .learndash-wrapper .wp-embed.ld-table-list .tribe-events-event-cost a.is-style-reverse, .learndash-wrapper html.js .tribe-events-page-template.wp-embed-responsive .wp-embed.ld-table-list .tribe-events-event-cost a.is-style-reverse, a.is-style-reverse.download-button, body.buddypress #buddypress a.is-style-reverse.request-membership,
@@ -14233,7 +14249,7 @@ body.buddypress #buddypress #send-private-message a.is-style-reverse,
 body.buddypress #buddypress a.is-style-reverse#aw-whats-new-submit,
 body.buddypress #buddypress a.is-style-reverse#aw-whats-new-reset,
 body.buddypress #buddypress a.is-style-reverse.dz-button,
-body.buddypress #buddypress a.is-style-reverse.button, body.buddypress #buddypress a.is-style-reverse#save, #bbpress-forums a.is-style-reverse.bb-reply-actions-button, #bbpress-forums a.is-style-reverse.bb-topic-reply-link-wrap,
+body.buddypress #buddypress a.is-style-reverse.button, body.buddypress #buddypress a.is-style-reverse#save, body.buddypress #buddypress .groups a.is-style-reverse.membership-requested, #bbpress-forums a.is-style-reverse.bb-reply-actions-button, #bbpress-forums a.is-style-reverse.bb-topic-reply-link-wrap,
 #bbpress-forums a.is-style-reverse.bb-topic-subscription-link-wrap, #bbpress-forums .bbp-admin-links a.is-style-reverse {
   /* reverse button style*/
 }
@@ -14435,6 +14451,7 @@ body.buddypress #buddypress {
   /* The Modal (background) */
   /* Modal Content/Box */
   /* The Close Button */
+  /* Groups Overview page */
   /* Manage Members Custom Styling */
 }
 
@@ -14696,6 +14713,14 @@ body.buddypress #buddypress .group-invites-search .nhsuk-search .nhsuk-search__s
   background: #003087;
 }
 
+body.buddypress #buddypress .groups .groups-meta {
+  text-align: center;
+}
+
+body.buddypress #buddypress .groups .leave-group:after {
+  content: '\00a0 \2612 \00a0 Leave Group';
+}
+
 body.buddypress #buddypress .bp-manage-group-container .usernames {
   text-align: center;
 }
@@ -14904,6 +14929,172 @@ body.groups.group-invites #send_group_invite_form .select2-container--default .s
   .bb-groups-invites-left.bb-select-member-view {
     background: #ffffff;
   }
+}
+
+/* add Buddypanel styling components */
+.buddypanel {
+  position: fixed;
+  left: 0;
+  top: 16px;
+  background: #005eb8;
+  border: none;
+  position: fixed;
+  width: 56px;
+  height: 100%;
+  z-index: 611;
+  -webkit-transition: width 0.4s;
+  transition: width 0.4s;
+}
+
+.buddypanel .panel-head {
+  background: #005eb8;
+}
+
+.buddypanel .panel-head a {
+  left: 16px;
+  font-size: 40px;
+  color: #ffffff;
+  padding: 0 16px;
+}
+
+.buddypanel .panel-head a img {
+  fill: white;
+}
+
+.buddypanel .side-panel-inner ul.buddypanel-menu {
+  margin-top: 40px;
+  list-style: none;
+  padding-left: 8px;
+}
+
+.buddypanel .side-panel-inner ul.buddypanel-menu li.bp-menu a {
+  color: #ffffff;
+}
+
+.buddypanel .side-panel-inner ul.buddypanel-menu li.bp-menu a img {
+  display: block;
+  width: 32px;
+  height: 32px;
+}
+
+.buddypanel .side-panel-inner ul.buddypanel-menu li.bp-menu a.focus-visible img {
+  border: 2px solid #ffeb3b;
+}
+
+.buddypanel .side-panel-inner ul.buddypanel-menu li.bp-menu a .link-text {
+  display: none;
+}
+
+body.buddypanel-open .buddypanel {
+  width: 220px;
+  transition: width 0.4s;
+}
+
+body.buddypanel-open .buddypanel .side-panel-inner ul.buddypanel-menu {
+  padding-left: 16px;
+}
+
+body.buddypanel-open .buddypanel .side-panel-inner ul.buddypanel-menu li.bp-menu {
+  position: relative;
+  display: block;
+  width: 180px;
+  padding: .75rem 1.25rem;
+  background: #ffffff;
+  border-top: 1px solid #005eb8;
+}
+
+body.buddypanel-open .buddypanel .side-panel-inner ul.buddypanel-menu li.bp-menu:hover {
+  background: #4c6272;
+  box-shadow: 2px 2px #ffeb3b;
+  cursor: pointer;
+}
+
+body.buddypanel-open .buddypanel .side-panel-inner ul.buddypanel-menu li.bp-menu:hover a .link-text {
+  color: #ffffff;
+}
+
+body.buddypanel-open .buddypanel .side-panel-inner ul.buddypanel-menu li.bp-menu img {
+  display: none;
+}
+
+body.buddypanel-open .buddypanel .side-panel-inner ul.buddypanel-menu li.bp-menu a .link-text {
+  display: inline-block;
+  color: #005eb8;
+}
+
+body.logged-in .buddypanel {
+  top: 32px;
+}
+
+/* Buddypress header nav elements */
+.buddypress-header .nhsuk-icon-buddy-search {
+  fill: #ffffff;
+  float: left;
+  margin-left: 16px;
+}
+
+.buddypress-header img {
+  width: 32px;
+  height: 32px;
+  float: left;
+  margin-left: 16px;
+}
+
+.buddypress-header .buddy-header-search {
+  width: 275px;
+  float: left;
+  display: none;
+  max-height: 40px;
+}
+
+.buddypress-header .buddy-head-popouts {
+  display: inline-block;
+  position: relative;
+  text-align: left;
+}
+
+.buddypress-header .buddy-head-popouts .bottom {
+  min-width: 200px;
+  /*max-width:400px;*/
+  top: 40px;
+  left: 50%;
+  transform: translate(-50%, 0);
+  padding: 20px;
+  color: #212b32;
+  background-color: #ffffff;
+  font-weight: normal;
+  font-size: 13px;
+  border-radius: 8px;
+  position: absolute;
+  z-index: 99999999;
+  box-sizing: border-box;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.5);
+  display: none;
+}
+
+.buddypress-header .buddy-head-popouts .bottom i {
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -12px;
+  width: 24px;
+  height: 12px;
+  overflow: hidden;
+}
+
+.buddypress-header .buddy-head-popouts .bottom i::after {
+  content: '';
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  left: 50%;
+  transform: translate(-50%, 50%) rotate(45deg);
+  background-color: #eeeeee;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.5);
+}
+
+.buddypress-header .buddy-head-popouts:hover .bottom {
+  display: block;
 }
 
 /* ==========================================================================

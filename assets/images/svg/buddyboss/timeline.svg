@@ -1,0 +1,44 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <title>ICONS Sets_v3</title>
+  <g id="Appointment_time" data-name="Appointment time">
+    <g id="Calendar">
+      <path d="M83.57,61c-3.94,0-7.13-2.55-7.13-5.69V32.59c0-3.14,3.19-5.69,7.13-5.69s7.13,2.55,7.13,5.69V55.33C90.7,58.47,87.51,61,83.57,61Z" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+      <path d="M154.9,60.68c-3.94,0-7.13-2.54-7.13-5.68V32.26c0-3.15,3.19-5.69,7.13-5.69s7.1,2.54,7.1,5.69V55C162,58.14,158.84,60.68,154.9,60.68Z" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+      <line x1="53.03" y1="93.88" x2="184.07" y2="93.88" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+      <line x1="53.03" y1="126.83" x2="178.46" y2="126.83" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+      <line x1="55.43" y1="157.77" x2="135.37" y2="157.77" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+      <line x1="79.64" y1="101.09" x2="79.64" y2="186.04" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+      <line x1="118.87" y1="101.27" x2="118.87" y2="186.23" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+      <line x1="158.1" y1="101.27" x2="158.1" y2="137.94" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+      <path d="M133.34,200.15H65.48a24.59,24.59,0,0,1-17-7,24,24,0,0,1-7-17V68.19a24,24,0,0,1,24-24H76.18" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+      <path d="M162.38,44.15h11a24,24,0,0,1,24,24v64" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+      <line x1="91.1" y1="44.15" x2="147.77" y2="44.15" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+      <line x1="91.3" y1="149.41" x2="106.43" y2="134.29" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+      <line x1="91.11" y1="134.38" x2="106.24" y2="149.5" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+      <line x1="131.05" y1="118.75" x2="146.17" y2="103.63" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+      <line x1="130.86" y1="103.72" x2="145.99" y2="118.85" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+    </g>
+    <g id="TIME">
+      <g>
+        <circle cx="183.52" cy="181.12" r="36.47" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+        <line x1="183.52" y1="217.59" x2="183.52" y2="210.29" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+        <line x1="201.75" y1="212.7" x2="198.11" y2="206.39" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+        <line x1="215.1" y1="199.35" x2="208.78" y2="195.71" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+        <line x1="219.99" y1="181.12" x2="212.7" y2="181.12" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+        <line x1="165.28" y1="212.7" x2="168.93" y2="206.39" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+        <line x1="151.93" y1="199.35" x2="158.25" y2="195.71" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+        <line x1="147.04" y1="181.12" x2="154.34" y2="181.12" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+        <line x1="183.52" y1="144.64" x2="183.52" y2="151.94" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+        <line x1="165.28" y1="149.53" x2="168.93" y2="155.84" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+        <line x1="151.93" y1="162.88" x2="158.25" y2="166.53" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+        <line x1="147.04" y1="181.12" x2="154.34" y2="181.12" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+        <line x1="201.75" y1="149.53" x2="198.11" y2="155.84" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+        <line x1="215.1" y1="162.88" x2="208.78" y2="166.53" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+        <line x1="219.99" y1="181.12" x2="212.7" y2="181.12" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+      </g>
+      <circle cx="183.52" cy="181.12" r="4.86" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+      <line x1="195.75" y1="161.3" x2="186.51" y2="177.35" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+      <line x1="188.78" y1="181.44" x2="201.09" y2="181.44" style="fill: none;stroke: #FFFFFF;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4px"/>
+    </g>
+  </g>
+</svg>

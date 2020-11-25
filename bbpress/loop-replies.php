@@ -129,7 +129,7 @@
 					<?php if ( ! empty( bbp_get_topic_forum_title() ) ) { ?>
                         <div class="action bs-forums-meta flex align-items-center">
 						<span class="color bs-meta-item">
-							<a href="<?php bbp_forum_permalink( bbp_get_topic_forum_id() ); ?>"><?php echo bbp_get_topic_forum_title();; ?></a>
+							<a href="<?php bbp_forum_permalink( bbp_get_topic_forum_id() ); ?>"><?php echo bbp_get_topic_forum_title(); ?></a>
 						</span>
                         </div>
 					<?php } ?>

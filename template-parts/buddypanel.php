@@ -23,7 +23,7 @@
     } else { ?>
 
         <header class="panel-head">
-			<a href="#" class="bb-toggle-panel"><i class="bb-icon-menu-left"></i></a>
+			<a href="#" class="bb-toggle-panel"><img src="<?php echo get_template_directory_uri() . '/assets/images/svg/buddyboss/menu.svg'; ?>" class="bbnavmenu" alt="Social Menu. Click to open / close"></a>
 		</header>
 
     <?php } ?>
@@ -36,7 +36,7 @@
     			'menu_id'		 => 'buddypanel-menu',
     			'container'		 => false,
     			'fallback_cb'	 => '',
-    			'walker'         => new BuddyBoss_BuddyPanel_Menu_Walker(),
+    			'walker'         => new Nightingale_BuddyBoss_BuddyPanel_Menu_Walker(),
     			'menu_class'	 => 'buddypanel-menu side-panel-menu', )
     		);
     		?>
